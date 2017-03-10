@@ -5,9 +5,9 @@
 This repository provide [base16][1] colorschemes for [fzf][2], a command-line
 fuzzy finder written in go.
 
-It is meant to be used along with the [new implementation][3] of base16 colorscheme
-project, which propose a modular approach, by separating templates, schemes and
-builder into different repositories.
+It is meant to be used along with the [new implementation][3] of base16
+colorscheme project, which propose a modular approach, by separating templates,
+schemes and builder into different repositories.
 
 The `build_scheme` directory of this repository contains fzf colorschemes build
 using the [base16-builder-php][4]. You can build all the colorschemes yourself
@@ -18,6 +18,20 @@ by using the aformentionned builder a builder written in another language. (see
 
 Append your favorite base16 colorscheme from the `build_scheme` directory into
 your {bash,zsh} configuration file.
+
+## Screenshot
+
+### Oceanicnext
+
+![oceanicnext-screenshot](screenshot/base16-oceanicnext.png)
+
+### Solarized-dark
+
+![solarized-dark-screenshot](screenshot/base16-solarized-dark.png)
+
+### Harmonic16-dark 
+
+![harmonic16dark-screenshot](screenshot/base16-harmonic16-dark.png)
 
 [1]: https://chriskempson.github.io/base16/
 [2]: https://github.com/junegunn/fzf
