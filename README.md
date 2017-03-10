@@ -1,6 +1,6 @@
 # base16-fzf
 
-## base16-zathura
+## base16-fzf
 
 This repository provide [base16][1] colorschemes for [fzf][2], a command-line
 fuzzy finder written in go.
@@ -9,10 +9,10 @@ It is meant to be used along with the [new implementation][3] of base16 colorsch
 project, which propose a modular approach, by separating templates, schemes and
 builder into different repositories.
 
-The `build_scheme` directory contains fzf colorschemes build with the
-[base16-php-builder][4]. You can build all the colorschemes yourself by using
-the aformentionned builder or another builder. ([see base16 main
-repository][3])
+The `build_scheme` directory of this repository contains fzf colorschemes build
+using the [base16-builder-php][4]. You can build all the colorschemes yourself
+by using the aformentionned builder a builder written in another language. (see
+[base16 main repository][3])
 
 ## Installation
 
