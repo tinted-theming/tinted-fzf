@@ -25,13 +25,17 @@ your {bash,zsh} configuration file.
 
 ![oceanicnext-screenshot](screenshot/base16-oceanicnext.png)
 
+### Bright
+
+![bright-screenshot](screenshot/base16-bright.png)
+
 ### Solarized-dark
 
 ![solarized-dark-screenshot](screenshot/base16-solarized-dark.png)
 
-### Harmonic16-dark 
+### Solarized-light
 
-![harmonic16dark-screenshot](screenshot/base16-harmonic16-dark.png)
+![solarized-light-screenshot](screenshot/base16-solarized-light.png)
 
 [1]: https://chriskempson.github.io/base16/
 [2]: https://github.com/junegunn/fzf
