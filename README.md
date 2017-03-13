@@ -11,8 +11,8 @@ schemes and builder into different repositories.
 
 The `build_scheme` directory of this repository contains fzf colorschemes build
 using the [base16-builder-php][4]. You can build all the colorschemes yourself
-by using the aformentionned builder a builder written in another language. (see
-[base16 main repository][3])
+by using the aformentionned builder or a builder written in another language.
+(see [base16 main repository][3])
 
 ## Installation
 
