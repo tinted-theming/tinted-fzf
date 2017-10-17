@@ -16,8 +16,14 @@ by using the aformentionned builder or a builder written in another language.
 
 ## Installation
 
-Append your favorite base16 colorscheme from the `build_scheme` directory into
-your {bash,zsh} configuration file.
+### Bash/ZSH
+
+Append your favorite base16 colorscheme from the `bash` directory into your
+{bash,zsh} configuration file.
+
+### Fish
+
+Source your favorite base16 colorscheme from the `fish` directory with the `source` command. This creates a global variable that will be persistent across shell sessions.
 
 ## Screenshot
 
