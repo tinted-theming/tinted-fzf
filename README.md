@@ -16,7 +16,7 @@ by using the aformentionned builder or a builder written in another language.
 
 ## Installation
 
-### Bash/ZSH
+### Bash/Zsh
 
 Append your favorite base16 colorscheme from the `bash` directory into your
 {bash,zsh} configuration file.
