@@ -1,3 +1,7 @@
 default:
     extension: .config
-    output: build_scheme
+    output: bash
+
+fish:
+    extension: _fzf.fish
+    output: fish
