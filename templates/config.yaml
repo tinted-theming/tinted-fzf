@@ -3,5 +3,5 @@ default:
     output: bash
 
 fish:
-    extension: _fzf.fish
+    extension: .fish
     output: fish

@@ -2,7 +2,7 @@
 # Author: 
 
 set -l color00 '#151718'
-set -l color01 '#8ec43d'
+set -l color01 '#282a2b'
 set -l color02 '#3B758C'
 set -l color03 '#41535B'
 set -l color04 '#43a5d5'
