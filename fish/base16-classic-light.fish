@@ -19,7 +19,6 @@ set -l color0E '#AA759F'
 set -l color0F '#8F5536'
 
 set -U FZF_DEFAULT_OPTS "
-  --height 40% --border
   --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D
   --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C
   --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D
