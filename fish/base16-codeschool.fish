@@ -1,5 +1,5 @@
 # Base16 Codeschool
-# Author: brettof86
+# Author: blockloop
 
 set -l color00 '#232c31'
 set -l color01 '#1c3657'
