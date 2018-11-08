@@ -1,5 +1,5 @@
 # Base16 Solarized Dark
-# Author: Ethan Schoonover (http://ethanschoonover.com/solarized)
+# Author: Ethan Schoonover (modified by aramisgithub)
 
 set -l color00 '#002b36'
 set -l color01 '#073642'

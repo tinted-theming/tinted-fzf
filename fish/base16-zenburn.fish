@@ -1,10 +1,10 @@
 # Base16 Zenburn
 # Author: elnawe
 
-set -l color00 '#3f3f3f'
+set -l color00 '#383838'
 set -l color01 '#404040'
 set -l color02 '#606060'
-set -l color03 '#4f4f4f'
+set -l color03 '#6f6f6f'
 set -l color04 '#808080'
 set -l color05 '#dcdccc'
 set -l color06 '#c0c0c0'
