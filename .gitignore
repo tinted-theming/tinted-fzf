@@ -1,0 +1,9 @@
+sources
+schemes
+sources.yaml
+
+templates/*
+
+!/templates/config.yaml
+!/templates/fish.mustache
+!/templates/default.mustache
