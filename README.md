@@ -46,7 +46,7 @@ However, when you commit your work, please run `make` so that the build director
 
 ![solarized-light-screenshot](screenshot/base16-solarized-light.png)
 
-[1]: https://chriskempson.github.io/base16/
+[1]: http://chriskempson.com/projects/base16/
 [2]: https://github.com/junegunn/fzf
 [3]: https://github.com/chriskempson/base16
 [4]: https://github.com/InspectorMustache/base16-builder-python
