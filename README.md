@@ -31,23 +31,15 @@ However, when you commit your work, please run `make` so that the build director
 
 ## Screenshots
 
-### Oceanicnext
-
-![oceanicnext-screenshot](screenshot/base16-oceanicnext.png)
-
-### Bright
-
-![bright-screenshot](screenshot/base16-bright.png)
-
-### Solarized-dark
-
-![solarized-dark-screenshot](screenshot/base16-solarized-dark.png)
-
-### Solarized-light
-
-![solarized-light-screenshot](screenshot/base16-solarized-light.png)
+| `solarized-dark`                | `horizon-dark`                | `tomorrow`                | `oceanicnext`                |
+| ------------------------------- | ----------------------------- | ------------------------- | ---------------------------- |
+| ![base16-fzf-solarized-dark][5] | ![base16-fzf-horizon-dark][6] | ![base16-fzf-tomorrow][7] | ![base16-fzf-oceanicnext][8] |
 
 [1]: http://chriskempson.com/projects/base16/
 [2]: https://github.com/junegunn/fzf
 [3]: https://github.com/chriskempson/base16
 [4]: https://github.com/InspectorMustache/base16-builder-python
+[5]: screenshots/base16-solarized-dark.png
+[6]: screenshots/base16-horizon-dark.png
+[7]: screenshots/base16-tomorrow.png
+[8]: screenshots/base16-oceanicnext.png
