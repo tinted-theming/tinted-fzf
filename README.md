@@ -1,7 +1,5 @@
 # base16-fzf
 
-## base16-fzf
-
 This repository provides [base16][1] colorschemes for [fzf][2], a command-line
 fuzzy finder written in Go.
 
@@ -10,6 +8,9 @@ colorscheme project, which proposes a modular approach by separating templates,
 schemes and builder into different repositories.
 
 The themes are built using [base16-builder-python][4].
+
+Themes in base16-fzf work by appending `--color` options to your existing
+`FZF_DEFAULT_OPTS` environment variable.
 
 ## Installation
 
