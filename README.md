@@ -22,6 +22,12 @@ bash or zsh configuration file.
 
 Source your favorite base16 colorscheme from the `fish` directory with the `source` command. This creates a global variable that will be persistent across shell sessions.
 
+## Contributing
+
+This repository includes a [GitHub Action](.github/workflows/update.yml) that builds the themes again. This keeps the themes up-to-date automatically.
+
+However, when you commit your work, please run `make` so that the build directories remain in sync.
+
 ## Screenshots
 
 ### Oceanicnext
