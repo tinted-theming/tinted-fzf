@@ -9,10 +9,7 @@ It is meant to be used along with the [new implementation][3] of the base16
 colorscheme project, which proposes a modular approach by separating templates,
 schemes and builder into different repositories.
 
-The `build_scheme` directory of this repository contains fzf colorschemes built
-using [base16-builder-php][4]. You can build all the colorschemes yourself
-by using the aformentionned builder or a builder written in another language.
-(see [base16 main repository][3]).
+The themes are built using [base16-builder-python][4].
 
 ## Installation
 
@@ -46,4 +43,4 @@ Source your favorite base16 colorscheme from the `fish` directory with the `sour
 [1]: https://chriskempson.github.io/base16/
 [2]: https://github.com/junegunn/fzf
 [3]: https://github.com/chriskempson/base16
-[4]: https://github.com/chriskempson/base16-builder-php
+[4]: https://github.com/InspectorMustache/base16-builder-python
