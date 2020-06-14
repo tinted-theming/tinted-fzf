@@ -1,22 +1,22 @@
 # Base16 Synth Midnight Dark
 # Author: Michaël Ball (http://github.com/michael-ball/)
 
-set -l color00 '#040404'
-set -l color01 '#141414'
-set -l color02 '#242424'
-set -l color03 '#61507A'
-set -l color04 '#BFBBBF'
-set -l color05 '#DFDBDF'
-set -l color06 '#EFEBEF'
-set -l color07 '#FFFBFF'
-set -l color08 '#B53B50'
-set -l color09 '#E4600E'
-set -l color0A '#DAE84D'
-set -l color0B '#06EA61'
-set -l color0C '#7CEDE9'
-set -l color0D '#03AEFF'
-set -l color0E '#EA5CE2'
-set -l color0F '#9D4D0E'
+set -l color00 '#050608'
+set -l color01 '#1a1b1c'
+set -l color02 '#28292a'
+set -l color03 '#474849'
+set -l color04 '#a3a5a6'
+set -l color05 '#c1c3c4'
+set -l color06 '#cfd1d2'
+set -l color07 '#dddfe0'
+set -l color08 '#b53b50'
+set -l color09 '#ea770d'
+set -l color0A '#d7df27'
+set -l color0B '#06ea61'
+set -l color0C '#42fff9'
+set -l color0D '#03aeff'
+set -l color0E '#ea5ce2'
+set -l color0F '#cd6320'
 
 set -U FZF_DEFAULT_OPTS "$FZF_DEFAULT_OPTS"\
 " --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
