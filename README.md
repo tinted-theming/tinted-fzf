@@ -17,13 +17,16 @@ Themes in base16-fzf work by appending `--color` options to your existing
 ### Bash & Zsh
 
 Source your favorite base16 colorscheme from the `bash` directory into your
-bash or zsh configuration file.
+bash or zsh configuration file. The generated `bash` scripts append `--color`
+options naively to your `FZF_DEFAULT_OPTS` environment variable.
 
 ### Fish
 
 Source your favorite base16 colorscheme from the `fish` directory with the
 `source` command. This creates a global variable that will be persistent across
-shell sessions.
+shell sessions. The generated `fish` scripts will overwrite existing `--color`
+options from your existing `FZF_DEFAULT_OPTS` to stop it from growing
+indefinitely as you try out different color schemes.
 
 ## Contributing
 
