@@ -1,11 +1,11 @@
 # base16-fzf
 
-This repository provides [base16][1] colorschemes for [fzf][2], a command-line
+This repository provides [base16][1] color schemes for [fzf][2], a command-line
 fuzzy finder written in Go.
 
 It is meant to be used along with the [new implementation][3] of the base16
-colorscheme project, which proposes a modular approach by separating templates,
-schemes and builder into different repositories.
+color scheme project, which proposes a modular approach by separating
+templates, schemes and builder into different repositories.
 
 The themes are built using [base16-builder-python][4].
 
@@ -16,13 +16,13 @@ Themes in base16-fzf work by appending `--color` options to your existing
 
 ### Bash & Zsh
 
-Source your favorite base16 colorscheme from the `bash` directory into your
+Source your favorite base16 color scheme from the `bash` directory into your
 bash or zsh configuration file. The generated `bash` scripts append `--color`
 options naively to your `FZF_DEFAULT_OPTS` environment variable.
 
 ### Fish
 
-Source your favorite base16 colorscheme from the `fish` directory with the
+Source your favorite base16 color scheme from the `fish` directory with the
 `source` command. This creates a global variable that will be persistent across
 shell sessions. The generated `fish` scripts will overwrite existing `--color`
 options from your existing `FZF_DEFAULT_OPTS` to stop it from growing
