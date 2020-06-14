@@ -1,14 +1,14 @@
-# Base16 Synth Midnight Terminal Dark
+# Base16 Synth Midnight Terminal Light
 # Author: Michaël Ball (http://github.com/michael-ball/)
 
-set -l color00 '#050608'
-set -l color01 '#1a1b1c'
-set -l color02 '#28292a'
-set -l color03 '#474849'
-set -l color04 '#a3a5a6'
-set -l color05 '#c1c3c4'
-set -l color06 '#cfd1d2'
-set -l color07 '#dddfe0'
+set -l color00 '#dddfe0'
+set -l color01 '#cfd1d2'
+set -l color02 '#c1c3c4'
+set -l color03 '#a3a5a6'
+set -l color04 '#474849'
+set -l color05 '#28292a'
+set -l color06 '#1a1b1c'
+set -l color07 '#050608'
 set -l color08 '#b53b50'
 set -l color09 '#ea770d'
 set -l color0A '#c9d364'
