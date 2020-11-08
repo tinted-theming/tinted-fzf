@@ -1,4 +1,4 @@
-# Base16 Solar Flare
+# Base16 Solar Flare Light
 # Author: Chuck Harmston (https://chuck.harmston.ch)
 
 set -l color00 '#F5F7FA'
