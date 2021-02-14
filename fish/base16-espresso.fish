@@ -1,5 +1,5 @@
 # Base16 Espresso
-# Author: Alex Mirrington (https://github.com/alexmirrington)
+# Author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
 
 set -l color00 '#2d2d2d'
 set -l color01 '#393939'
