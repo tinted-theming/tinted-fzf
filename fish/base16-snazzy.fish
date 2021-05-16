@@ -1,5 +1,5 @@
 # Base16 Snazzy
-# Author: Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# Author: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
 
 set -l color00 '#282a36'
 set -l color01 '#34353e'
