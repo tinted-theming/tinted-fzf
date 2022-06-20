@@ -1,40 +1,41 @@
 # base16-fzf
 
-This repository provides [base16][1] color schemes for [fzf][2], a command-line
-fuzzy finder written in Go.
+This repository provides [base16][1] color schemes for [fzf][2], a
+command-line fuzzy finder written in Go.
 
-It is meant to be used along with the [new implementation][3] of the base16
-color scheme project, which proposes a modular approach by separating
-templates, schemes and builder into different repositories.
+It is meant to be used along with the [new implementation][1] of the
+base16 color scheme project, which proposes a modular approach by
+separating templates, schemes and builder into different repositories.
 
-The themes are built using [base16-builder-python][4].
-
-Themes in base16-fzf work by appending `--color` options to your existing
-`FZF_DEFAULT_OPTS` environment variable.
+Themes in base16-fzf work by appending `--color` options to your
+existing `FZF_DEFAULT_OPTS` environment variable.
 
 ## Installation
 
 ### Bash & Zsh
 
-Source your favorite base16 color scheme from the `bash` directory into your
-bash or zsh configuration file. The generated `bash` scripts append `--color`
-options naively to your `FZF_DEFAULT_OPTS` environment variable.
+Source your favorite base16 color scheme from the `bash` directory into
+your bash or zsh configuration file. The generated `bash` scripts append
+`--color` options naively to your `FZF_DEFAULT_OPTS` environment
+variable.
 
 ### Fish
 
-Source your favorite base16 color scheme from the `fish` directory with the
-`source` command. This creates a global variable that will be persistent across
-shell sessions. The generated `fish` scripts will overwrite existing `--color`
-options from your existing `FZF_DEFAULT_OPTS` to stop it from growing
-indefinitely as you try out different color schemes.
+Source your favorite base16 color scheme from the `fish` directory with
+the `source` command. This creates a global variable that will be
+persistent across shell sessions. The generated `fish` scripts will
+overwrite existing `--color` options from your existing
+`FZF_DEFAULT_OPTS` to stop it from growing indefinitely as you try out
+different color schemes.
+
+The themes are built using [base16-builder-go][4].
 
 ## Contributing
 
-This repository includes a [GitHub Action](.github/workflows/update.yml) that
-builds the themes again. This keeps the themes up-to-date automatically.
+See [`CONTRIBUTING.md`][9], which contains building and contributing
+instructions.
 
-However, when you commit your work, please run `make` so that the build
-directories remain in sync.
+This theme was built with [base16-builder-go][3].
 
 ## Screenshots
 
@@ -42,11 +43,12 @@ directories remain in sync.
 | ------------------------------- | ----------------------------- | ------------------------- | ---------------------------- |
 | ![base16-fzf-solarized-dark][5] | ![base16-fzf-horizon-dark][6] | ![base16-fzf-tomorrow][7] | ![base16-fzf-oceanicnext][8] |
 
-[1]: http://chriskempson.com/projects/base16/
+[1]: https://github.com/base16-project/base16
 [2]: https://github.com/junegunn/fzf
-[3]: https://github.com/chriskempson/base16
-[4]: https://github.com/InspectorMustache/base16-builder-python
+[3]: https://github.com/base16-project/base16-builder-go
+[4]: .github/workflows/update.yml
 [5]: screenshots/base16-solarized-dark.png
 [6]: screenshots/base16-horizon-dark.png
 [7]: screenshots/base16-tomorrow.png
 [8]: screenshots/base16-oceanicnext.png
+[9]: CONTRIBUTING.md
