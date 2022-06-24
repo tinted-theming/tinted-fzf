@@ -1,22 +1,22 @@
 # Base16 Horizon Light
 # Author: Michaël Ball (http://github.com/michael-ball/)
 
-set -l color00 '#FDF0ED'
-set -l color01 '#FADAD1'
-set -l color02 '#F9CBBE'
-set -l color03 '#BDB3B1'
-set -l color04 '#948C8A'
-set -l color05 '#403C3D'
-set -l color06 '#302C2D'
-set -l color07 '#201C1D'
-set -l color08 '#F7939B'
-set -l color09 '#F6661E'
-set -l color0A '#FBE0D9'
-set -l color0B '#94E1B0'
-set -l color0C '#DC3318'
-set -l color0D '#DA103F'
-set -l color0E '#1D8991'
-set -l color0F '#E58C92'
+set -l color00 '#fdf0ed'
+set -l color01 '#fadad1'
+set -l color02 '#f9cbbe'
+set -l color03 '#bdb3b1'
+set -l color04 '#948c8a'
+set -l color05 '#403c3d'
+set -l color06 '#302c2d'
+set -l color07 '#201c1d'
+set -l color08 '#f7939b'
+set -l color09 '#f6661e'
+set -l color0A '#fbe0d9'
+set -l color0B '#94e1b0'
+set -l color0C '#dc3318'
+set -l color0D '#da103f'
+set -l color0E '#1d8991'
+set -l color0F '#e58c92'
 
 set -l FZF_NON_COLOR_OPTS
 

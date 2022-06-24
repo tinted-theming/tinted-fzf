@@ -3,8 +3,8 @@
 
 set -l color00 '#002635'
 set -l color01 '#00384d'
-set -l color02 '#517F8D'
-set -l color03 '#6C8B91'
+set -l color02 '#517f8d'
+set -l color03 '#6c8b91'
 set -l color04 '#869696'
 set -l color05 '#a1a19a'
 set -l color06 '#e6e6dc'

@@ -1,13 +1,13 @@
 # Base16 Brush Trees
 # Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
 
-set -l color00 '#E3EFEF'
-set -l color01 '#C9DBDC'
-set -l color02 '#B0C5C8'
-set -l color03 '#98AFB5'
-set -l color04 '#8299A1'
-set -l color05 '#6D828E'
-set -l color06 '#5A6D7A'
+set -l color00 '#e3efef'
+set -l color01 '#c9dbdc'
+set -l color02 '#b0c5c8'
+set -l color03 '#98afb5'
+set -l color04 '#8299a1'
+set -l color05 '#6d828e'
+set -l color06 '#5a6d7a'
 set -l color07 '#485867'
 set -l color08 '#b38686'
 set -l color09 '#d8bba2'

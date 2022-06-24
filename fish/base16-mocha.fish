@@ -1,7 +1,7 @@
 # Base16 Mocha
 # Author: Chris Kempson (http://chriskempson.com)
 
-set -l color00 '#3B3228'
+set -l color00 '#3b3228'
 set -l color01 '#534636'
 set -l color02 '#645240'
 set -l color03 '#7e705a'

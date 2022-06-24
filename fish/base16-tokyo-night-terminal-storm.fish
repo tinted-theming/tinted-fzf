@@ -1,22 +1,22 @@
 # Base16 Tokyo Night Terminal Storm
 # Author: Michaël Ball
 
-set -l color00 '#24283B'
-set -l color01 '#1A1B26'
-set -l color02 '#343A52'
-set -l color03 '#444B6A'
-set -l color04 '#787C99'
-set -l color05 '#787C99'
-set -l color06 '#CBCCD1'
-set -l color07 '#D5D6DB'
-set -l color08 '#F7768E'
-set -l color09 '#FF9E64'
-set -l color0A '#E0AF68'
-set -l color0B '#41A6B5'
-set -l color0C '#7DCFFF'
-set -l color0D '#7AA2F7'
-set -l color0E '#BB9AF7'
-set -l color0F '#D18616'
+set -l color00 '#24283b'
+set -l color01 '#1a1b26'
+set -l color02 '#343a52'
+set -l color03 '#444b6a'
+set -l color04 '#787c99'
+set -l color05 '#787c99'
+set -l color06 '#cbccd1'
+set -l color07 '#d5d6db'
+set -l color08 '#f7768e'
+set -l color09 '#ff9e64'
+set -l color0A '#e0af68'
+set -l color0B '#41a6b5'
+set -l color0C '#7dcfff'
+set -l color0D '#7aa2f7'
+set -l color0E '#bb9af7'
+set -l color0F '#d18616'
 
 set -l FZF_NON_COLOR_OPTS
 

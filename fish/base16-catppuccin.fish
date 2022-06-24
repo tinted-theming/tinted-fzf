@@ -1,22 +1,22 @@
 # Base16 Catppuccin
 # Author: Pocco81 (https://github.com/pocco81)
 
-set -l color00 '#1E1E28'
-set -l color01 '#1A1826'
-set -l color02 '#302D41'
+set -l color00 '#1e1e28'
+set -l color01 '#1a1826'
+set -l color02 '#302d41'
 set -l color03 '#575268'
-set -l color04 '#6E6C7C'
-set -l color05 '#D7DAE0'
-set -l color06 '#F5E0DC'
-set -l color07 '#C9CBFF'
-set -l color08 '#F28FAD'
-set -l color09 '#F8BD96'
-set -l color0A '#FAE3B0'
-set -l color0B '#ABE9B3'
-set -l color0C '#B5E8E0'
-set -l color0D '#96CDFB'
-set -l color0E '#DDB6F2'
-set -l color0F '#F2CDCD'
+set -l color04 '#6e6c7c'
+set -l color05 '#d7dae0'
+set -l color06 '#f5e0dc'
+set -l color07 '#c9cbff'
+set -l color08 '#f28fad'
+set -l color09 '#f8bd96'
+set -l color0A '#fae3b0'
+set -l color0B '#abe9b3'
+set -l color0C '#b5e8e0'
+set -l color0D '#96cdfb'
+set -l color0E '#ddb6f2'
+set -l color0F '#f2cdcd'
 
 set -l FZF_NON_COLOR_OPTS
 

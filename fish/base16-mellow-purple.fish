@@ -2,7 +2,7 @@
 # Author: gidsi
 
 set -l color00 '#1e0528'
-set -l color01 '#1A092D'
+set -l color01 '#1a092d'
 set -l color02 '#331354'
 set -l color03 '#320f55'
 set -l color04 '#873582'

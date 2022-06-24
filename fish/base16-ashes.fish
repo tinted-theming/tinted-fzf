@@ -1,22 +1,22 @@
 # Base16 Ashes
 # Author: Jannik Siebert (https://github.com/janniks)
 
-set -l color00 '#1C2023'
-set -l color01 '#393F45'
-set -l color02 '#565E65'
-set -l color03 '#747C84'
-set -l color04 '#ADB3BA'
-set -l color05 '#C7CCD1'
-set -l color06 '#DFE2E5'
-set -l color07 '#F3F4F5'
-set -l color08 '#C7AE95'
-set -l color09 '#C7C795'
-set -l color0A '#AEC795'
-set -l color0B '#95C7AE'
-set -l color0C '#95AEC7'
-set -l color0D '#AE95C7'
-set -l color0E '#C795AE'
-set -l color0F '#C79595'
+set -l color00 '#1c2023'
+set -l color01 '#393f45'
+set -l color02 '#565e65'
+set -l color03 '#747c84'
+set -l color04 '#adb3ba'
+set -l color05 '#c7ccd1'
+set -l color06 '#dfe2e5'
+set -l color07 '#f3f4f5'
+set -l color08 '#c7ae95'
+set -l color09 '#c7c795'
+set -l color0A '#aec795'
+set -l color0B '#95c7ae'
+set -l color0C '#95aec7'
+set -l color0D '#ae95c7'
+set -l color0E '#c795ae'
+set -l color0F '#c79595'
 
 set -l FZF_NON_COLOR_OPTS
 

@@ -1,21 +1,21 @@
 # Base16 Blue Forest
 # Author: alonsodomin (https://github.com/alonsodomin)
 
-set -l color00 '#141F2E'
+set -l color00 '#141f2e'
 set -l color01 '#1e5c1e'
 set -l color02 '#273e5c'
 set -l color03 '#a0ffa0'
 set -l color04 '#1e5c1e'
-set -l color05 '#FFCC33'
-set -l color06 '#91CCFF'
+set -l color05 '#ffcc33'
+set -l color06 '#91ccff'
 set -l color07 '#375780'
 set -l color08 '#fffab1'
-set -l color09 '#FF8080'
-set -l color0A '#91CCFF'
+set -l color09 '#ff8080'
+set -l color0A '#91ccff'
 set -l color0B '#80ff80'
 set -l color0C '#80ff80'
 set -l color0D '#a2cff5'
-set -l color0E '#0099FF'
+set -l color0E '#0099ff'
 set -l color0F '#e7e7e7'
 
 set -l FZF_NON_COLOR_OPTS

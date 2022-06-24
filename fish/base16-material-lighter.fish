@@ -1,22 +1,22 @@
 # Base16 Material Lighter
 # Author: Nate Peterson
 
-set -l color00 '#FAFAFA'
-set -l color01 '#E7EAEC'
-set -l color02 '#CCEAE7'
-set -l color03 '#CCD7DA'
-set -l color04 '#8796B0'
-set -l color05 '#80CBC4'
-set -l color06 '#80CBC4'
-set -l color07 '#FFFFFF'
-set -l color08 '#FF5370'
-set -l color09 '#F76D47'
-set -l color0A '#FFB62C'
-set -l color0B '#91B859'
-set -l color0C '#39ADB5'
-set -l color0D '#6182B8'
-set -l color0E '#7C4DFF'
-set -l color0F '#E53935'
+set -l color00 '#fafafa'
+set -l color01 '#e7eaec'
+set -l color02 '#cceae7'
+set -l color03 '#ccd7da'
+set -l color04 '#8796b0'
+set -l color05 '#80cbc4'
+set -l color06 '#80cbc4'
+set -l color07 '#ffffff'
+set -l color08 '#ff5370'
+set -l color09 '#f76d47'
+set -l color0A '#ffb62c'
+set -l color0B '#91b859'
+set -l color0C '#39adb5'
+set -l color0D '#6182b8'
+set -l color0E '#7c4dff'
+set -l color0F '#e53935'
 
 set -l FZF_NON_COLOR_OPTS
 

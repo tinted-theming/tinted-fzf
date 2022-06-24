@@ -1,22 +1,22 @@
 # Base16 Stella
 # Author: Shrimpram
 
-set -l color00 '#2B213C'
-set -l color01 '#362B48'
-set -l color02 '#4D4160'
+set -l color00 '#2b213c'
+set -l color01 '#362b48'
+set -l color02 '#4d4160'
 set -l color03 '#655978'
-set -l color04 '#7F7192'
-set -l color05 '#998BAD'
-set -l color06 '#B4A5C8'
-set -l color07 '#EBDCFF'
-set -l color08 '#C79987'
-set -l color09 '#8865C6'
-set -l color0A '#C7C691'
-set -l color0B '#ACC79B'
-set -l color0C '#9BC7BF'
-set -l color0D '#A5AAD4'
-set -l color0E '#C594FF'
-set -l color0F '#C7AB87'
+set -l color04 '#7f7192'
+set -l color05 '#998bad'
+set -l color06 '#b4a5c8'
+set -l color07 '#ebdcff'
+set -l color08 '#c79987'
+set -l color09 '#8865c6'
+set -l color0A '#c7c691'
+set -l color0B '#acc79b'
+set -l color0C '#9bc7bf'
+set -l color0D '#a5aad4'
+set -l color0E '#c594ff'
+set -l color0F '#c7ab87'
 
 set -l FZF_NON_COLOR_OPTS
 

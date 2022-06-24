@@ -2,7 +2,7 @@
 # Author: Tiagovla (https://github.com/tiagovla/)
 
 set -l color00 '#11121d'
-set -l color01 '#1A1B2A'
+set -l color01 '#1a1b2a'
 set -l color02 '#212234'
 set -l color03 '#282c34'
 set -l color04 '#4a5057'

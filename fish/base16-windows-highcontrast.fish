@@ -2,7 +2,7 @@
 # Author: Fergus Collins (https://github.com/C-Fergus)
 
 set -l color00 '#000000'
-set -l color01 '#1C1C1C'
+set -l color01 '#1c1c1c'
 set -l color02 '#383838'
 set -l color03 '#545454'
 set -l color04 '#a2a2a2'

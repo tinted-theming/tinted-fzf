@@ -1,22 +1,22 @@
 # Base16 Tokyo City Terminal Light
 # Author: Michaël Ball
 
-set -l color00 '#FBFBFD'
-set -l color01 '#F6F6F8'
-set -l color02 '#D8E2EC'
-set -l color03 '#B7C5D3'
+set -l color00 '#fbfbfd'
+set -l color01 '#f6f6f8'
+set -l color02 '#d8e2ec'
+set -l color03 '#b7c5d3'
 set -l color04 '#526270'
-set -l color05 '#28323A'
-set -l color06 '#1D252C'
-set -l color07 '#171D23'
-set -l color08 '#8C4351'
+set -l color05 '#28323a'
+set -l color06 '#1d252c'
+set -l color07 '#171d23'
+set -l color08 '#8c4351'
 set -l color09 '#965027'
-set -l color0A '#8f5E15'
-set -l color0B '#33635C'
-set -l color0C '#0F4B6E'
-set -l color0D '#34548A'
-set -l color0E '#5A4A78'
-set -l color0F '#7E5140'
+set -l color0A '#8f5e15'
+set -l color0B '#33635c'
+set -l color0C '#0f4b6e'
+set -l color0D '#34548a'
+set -l color0E '#5a4a78'
+set -l color0F '#7e5140'
 
 set -l FZF_NON_COLOR_OPTS
 

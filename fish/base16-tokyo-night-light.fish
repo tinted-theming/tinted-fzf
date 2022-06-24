@@ -1,22 +1,22 @@
 # Base16 Tokyo Night Light
 # Author: Michaël Ball
 
-set -l color00 '#D5D6DB'
-set -l color01 '#CBCCD1'
-set -l color02 '#DFE0E5'
-set -l color03 '#9699A3'
-set -l color04 '#4C505E'
-set -l color05 '#343B59'
-set -l color06 '#1A1B26'
-set -l color07 '#1A1B26'
-set -l color08 '#343B58'
+set -l color00 '#d5d6db'
+set -l color01 '#cbccd1'
+set -l color02 '#dfe0e5'
+set -l color03 '#9699a3'
+set -l color04 '#4c505e'
+set -l color05 '#343b59'
+set -l color06 '#1a1b26'
+set -l color07 '#1a1b26'
+set -l color08 '#343b58'
 set -l color09 '#965027'
 set -l color0A '#166775'
-set -l color0B '#485E30'
-set -l color0C '#3E6968'
-set -l color0D '#34548A'
-set -l color0E '#5A4A78'
-set -l color0F '#8C4351'
+set -l color0B '#485e30'
+set -l color0C '#3e6968'
+set -l color0D '#34548a'
+set -l color0E '#5a4a78'
+set -l color0F '#8c4351'
 
 set -l FZF_NON_COLOR_OPTS
 

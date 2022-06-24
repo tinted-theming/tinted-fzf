@@ -1,22 +1,22 @@
 # Base16 Tokyo City Terminal Dark
 # Author: Michaël Ball
 
-set -l color00 '#171D23'
-set -l color01 '#1D252C'
-set -l color02 '#28323A'
+set -l color00 '#171d23'
+set -l color01 '#1d252c'
+set -l color02 '#28323a'
 set -l color03 '#526270'
-set -l color04 '#B7C5D3'
-set -l color05 '#D8E2EC'
-set -l color06 '#F6F6F8'
-set -l color07 '#FBFBFD'
-set -l color08 '#D95468'
-set -l color09 '#FF9E64'
-set -l color0A '#EBBF83'
-set -l color0B '#8BD49C'
-set -l color0C '#70E1E8'
-set -l color0D '#539AFC'
-set -l color0E '#B62D65'
-set -l color0F '#DD9D82'
+set -l color04 '#b7c5d3'
+set -l color05 '#d8e2ec'
+set -l color06 '#f6f6f8'
+set -l color07 '#fbfbfd'
+set -l color08 '#d95468'
+set -l color09 '#ff9e64'
+set -l color0A '#ebbf83'
+set -l color0B '#8bd49c'
+set -l color0C '#70e1e8'
+set -l color0D '#539afc'
+set -l color0E '#b62d65'
+set -l color0F '#dd9d82'
 
 set -l FZF_NON_COLOR_OPTS
 

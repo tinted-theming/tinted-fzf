@@ -1,22 +1,22 @@
 # Base16 Ayu Light
 # Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
 
-set -l color00 '#FAFAFA'
-set -l color01 '#F3F4F5'
-set -l color02 '#F8F9FA'
-set -l color03 '#ABB0B6'
-set -l color04 '#828C99'
-set -l color05 '#5C6773'
+set -l color00 '#fafafa'
+set -l color01 '#f3f4f5'
+set -l color02 '#f8f9fa'
+set -l color03 '#abb0b6'
+set -l color04 '#828c99'
+set -l color05 '#5c6773'
 set -l color06 '#242936'
-set -l color07 '#1A1F29'
-set -l color08 '#F07178'
-set -l color09 '#FA8D3E'
-set -l color0A '#F2AE49'
-set -l color0B '#86B300'
-set -l color0C '#4CBF99'
-set -l color0D '#36A3D9'
-set -l color0E '#A37ACC'
-set -l color0F '#E6BA7E'
+set -l color07 '#1a1f29'
+set -l color08 '#f07178'
+set -l color09 '#fa8d3e'
+set -l color0A '#f2ae49'
+set -l color0B '#86b300'
+set -l color0C '#4cbf99'
+set -l color0D '#36a3d9'
+set -l color0E '#a37acc'
+set -l color0F '#e6ba7e'
 
 set -l FZF_NON_COLOR_OPTS
 

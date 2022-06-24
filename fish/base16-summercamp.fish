@@ -15,8 +15,8 @@ set -l color0A '#f2ff27'
 set -l color0B '#5ceb5a'
 set -l color0C '#5aebbc'
 set -l color0D '#489bf0'
-set -l color0E '#FF8080'
-set -l color0F '#F69BE7'
+set -l color0E '#ff8080'
+set -l color0F '#f69be7'
 
 set -l FZF_NON_COLOR_OPTS
 

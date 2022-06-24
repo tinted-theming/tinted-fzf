@@ -1,13 +1,13 @@
 # Base16 vice
 # Author: Thomas Leon Highbaugh thighbaugh@zoho.com
 
-set -l color00 '#17191E'
+set -l color00 '#17191e'
 set -l color01 '#22262d'
 set -l color02 '#3c3f4c'
 set -l color03 '#383a47'
 set -l color04 '#555e70'
 set -l color05 '#8b9cbe'
-set -l color06 '#B2BFD9'
+set -l color06 '#b2bfd9'
 set -l color07 '#f4f4f7'
 set -l color08 '#ff29a8'
 set -l color09 '#85ffe0'

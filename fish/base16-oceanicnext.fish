@@ -1,22 +1,22 @@
 # Base16 OceanicNext
 # Author: https://github.com/voronianski/oceanic-next-color-scheme
 
-set -l color00 '#1B2B34'
-set -l color01 '#343D46'
-set -l color02 '#4F5B66'
-set -l color03 '#65737E'
-set -l color04 '#A7ADBA'
-set -l color05 '#C0C5CE'
-set -l color06 '#CDD3DE'
-set -l color07 '#D8DEE9'
-set -l color08 '#EC5f67'
-set -l color09 '#F99157'
-set -l color0A '#FAC863'
-set -l color0B '#99C794'
-set -l color0C '#5FB3B3'
-set -l color0D '#6699CC'
-set -l color0E '#C594C5'
-set -l color0F '#AB7967'
+set -l color00 '#1b2b34'
+set -l color01 '#343d46'
+set -l color02 '#4f5b66'
+set -l color03 '#65737e'
+set -l color04 '#a7adba'
+set -l color05 '#c0c5ce'
+set -l color06 '#cdd3de'
+set -l color07 '#d8dee9'
+set -l color08 '#ec5f67'
+set -l color09 '#f99157'
+set -l color0A '#fac863'
+set -l color0B '#99c794'
+set -l color0C '#5fb3b3'
+set -l color0D '#6699cc'
+set -l color0E '#c594c5'
+set -l color0F '#ab7967'
 
 set -l FZF_NON_COLOR_OPTS
 

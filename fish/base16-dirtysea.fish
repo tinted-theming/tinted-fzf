@@ -11,12 +11,12 @@ set -l color06 '#f8f8f8'
 set -l color07 '#c4d9c4'
 set -l color08 '#840000'
 set -l color09 '#006565'
-set -l color0A '#755B00'
+set -l color0A '#755b00'
 set -l color0B '#730073'
-set -l color0C '#755B00'
+set -l color0C '#755b00'
 set -l color0D '#007300'
 set -l color0E '#000090'
-set -l color0F '#755B00'
+set -l color0F '#755b00'
 
 set -l FZF_NON_COLOR_OPTS
 

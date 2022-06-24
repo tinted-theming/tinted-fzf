@@ -1,22 +1,22 @@
 # Base16 Nord
 # Author: arcticicestudio
 
-set -l color00 '#2E3440'
-set -l color01 '#3B4252'
-set -l color02 '#434C5E'
-set -l color03 '#4C566A'
-set -l color04 '#D8DEE9'
-set -l color05 '#E5E9F0'
-set -l color06 '#ECEFF4'
-set -l color07 '#8FBCBB'
-set -l color08 '#BF616A'
-set -l color09 '#D08770'
-set -l color0A '#EBCB8B'
-set -l color0B '#A3BE8C'
-set -l color0C '#88C0D0'
-set -l color0D '#81A1C1'
-set -l color0E '#B48EAD'
-set -l color0F '#5E81AC'
+set -l color00 '#2e3440'
+set -l color01 '#3b4252'
+set -l color02 '#434c5e'
+set -l color03 '#4c566a'
+set -l color04 '#d8dee9'
+set -l color05 '#e5e9f0'
+set -l color06 '#eceff4'
+set -l color07 '#8fbcbb'
+set -l color08 '#bf616a'
+set -l color09 '#d08770'
+set -l color0A '#ebcb8b'
+set -l color0B '#a3be8c'
+set -l color0C '#88c0d0'
+set -l color0D '#81a1c1'
+set -l color0E '#b48ead'
+set -l color0F '#5e81ac'
 
 set -l FZF_NON_COLOR_OPTS
 

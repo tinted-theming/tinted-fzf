@@ -1,22 +1,22 @@
 # Base16 Still Alive
 # Author: Derrick McKee (derrick.mckee@gmail.com)
 
-set -l color00 '#F0F0F0'
-set -l color01 '#F0D848'
-set -l color02 '#FFF018'
-set -l color03 '#F01818'
-set -l color04 '#F00000'
-set -l color05 '#D80000'
+set -l color00 '#f0f0f0'
+set -l color01 '#f0d848'
+set -l color02 '#fff018'
+set -l color03 '#f01818'
+set -l color04 '#f00000'
+set -l color05 '#d80000'
 set -l color06 '#489000'
-set -l color07 '#30A860'
+set -l color07 '#30a860'
 set -l color08 '#487830'
 set -l color09 '#183048'
 set -l color0A '#426395'
-set -l color0B '#5C5C6A'
-set -l color0C '#2C3C57'
+set -l color0B '#5c5c6a'
+set -l color0C '#2c3c57'
 set -l color0D '#001878'
 set -l color0E '#900000'
-set -l color0F '#140C0D'
+set -l color0F '#140c0d'
 
 set -l FZF_NON_COLOR_OPTS
 

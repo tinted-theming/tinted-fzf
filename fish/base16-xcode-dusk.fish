@@ -1,22 +1,22 @@
 # Base16 XCode Dusk
 # Author: Elsa Gonsiorowski (https://github.com/gonsie)
 
-set -l color00 '#282B35'
-set -l color01 '#3D4048'
-set -l color02 '#53555D'
-set -l color03 '#686A71'
-set -l color04 '#7E8086'
+set -l color00 '#282b35'
+set -l color01 '#3d4048'
+set -l color02 '#53555d'
+set -l color03 '#686a71'
+set -l color04 '#7e8086'
 set -l color05 '#939599'
-set -l color06 '#A9AAAE'
-set -l color07 '#BEBFC2'
-set -l color08 '#B21889'
-set -l color09 '#786DC5'
+set -l color06 '#a9aaae'
+set -l color07 '#bebfc2'
+set -l color08 '#b21889'
+set -l color09 '#786dc5'
 set -l color0A '#438288'
-set -l color0B '#DF0002'
-set -l color0C '#00A0BE'
-set -l color0D '#790EAD'
-set -l color0E '#B21889'
-set -l color0F '#C77C48'
+set -l color0B '#df0002'
+set -l color0C '#00a0be'
+set -l color0D '#790ead'
+set -l color0E '#b21889'
+set -l color0F '#c77c48'
 
 set -l FZF_NON_COLOR_OPTS
 

@@ -1,22 +1,22 @@
 # Base16 Ayu Dark
 # Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
 
-set -l color00 '#0F1419'
+set -l color00 '#0f1419'
 set -l color01 '#131721'
-set -l color02 '#272D38'
-set -l color03 '#3E4B59'
-set -l color04 '#BFBDB6'
-set -l color05 '#E6E1CF'
-set -l color06 '#E6E1CF'
-set -l color07 '#F3F4F5'
-set -l color08 '#F07178'
-set -l color09 '#FF8F40'
-set -l color0A '#FFB454'
-set -l color0B '#B8CC52'
-set -l color0C '#95E6CB'
-set -l color0D '#59C2FF'
-set -l color0E '#D2A6FF'
-set -l color0F '#E6B673'
+set -l color02 '#272d38'
+set -l color03 '#3e4b59'
+set -l color04 '#bfbdb6'
+set -l color05 '#e6e1cf'
+set -l color06 '#e6e1cf'
+set -l color07 '#f3f4f5'
+set -l color08 '#f07178'
+set -l color09 '#ff8f40'
+set -l color0A '#ffb454'
+set -l color0B '#b8cc52'
+set -l color0C '#95e6cb'
+set -l color0D '#59c2ff'
+set -l color0E '#d2a6ff'
+set -l color0F '#e6b673'
 
 set -l FZF_NON_COLOR_OPTS
 
