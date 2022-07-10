@@ -1,4 +1,4 @@
-# Base16 Tomorrow Night
+# Base16 Tomorrow Night Eighties
 # Author: Chris Kempson (http://chriskempson.com)
 
 set -l color00 '#2d2d2d'

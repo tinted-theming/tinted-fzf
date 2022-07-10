@@ -1,4 +1,4 @@
-# Base16 Gruvbox Material Dark, Medium
+# Base16 Gruvbox Material Dark, Hard
 # Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
 
 set -l color00 '#202020'

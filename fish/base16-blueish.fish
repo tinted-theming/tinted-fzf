@@ -1,4 +1,4 @@
-# Base16 better-contrast
+# Base16 Blueish
 # Author: Ben Mayoras
 
 set -l color00 '#182430'
