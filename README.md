@@ -43,7 +43,7 @@ This theme was built with [base16-builder-go][3].
 | ------------------------------- | ----------------------------- | ------------------------- | ---------------------------- |
 | ![base16-fzf-solarized-dark][5] | ![base16-fzf-horizon-dark][6] | ![base16-fzf-tomorrow][7] | ![base16-fzf-oceanicnext][8] |
 
-[1]: https://github.com/base16-project/base16
+[1]: https://github.com/base16-project/home
 [2]: https://github.com/junegunn/fzf
 [3]: https://github.com/base16-project/base16-builder-go
 [4]: .github/workflows/update.yml
