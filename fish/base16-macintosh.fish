@@ -1,5 +1,6 @@
 # Base16 Macintosh
-# Author: Rebecca Bettencourt (http://www.kreativekorp.com)
+# Scheme author: Rebecca Bettencourt (http://www.kreativekorp.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#000000'
 set -l color01 '#404040'

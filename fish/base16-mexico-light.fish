@@ -1,5 +1,6 @@
 # Base16 Mexico Light
-# Author: Sheldon Johnson
+# Scheme author: Sheldon Johnson
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f8f8f8'
 set -l color01 '#e8e8e8'

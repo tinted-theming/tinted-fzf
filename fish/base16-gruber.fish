@@ -1,5 +1,6 @@
 # Base16 Gruber
-# Author: Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+# Scheme author: Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#181818'
 set -l color01 '#453d41'

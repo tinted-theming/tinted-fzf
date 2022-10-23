@@ -1,5 +1,6 @@
 # Base16 Nord
-# Author: arcticicestudio
+# Scheme author: arcticicestudio
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2e3440'
 set -l color01 '#3b4252'

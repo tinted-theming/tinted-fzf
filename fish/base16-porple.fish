@@ -1,5 +1,6 @@
 # Base16 Porple
-# Author: Niek den Breeje (https://github.com/AuditeMarlow)
+# Scheme author: Niek den Breeje (https://github.com/AuditeMarlow)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#292c36'
 set -l color01 '#333344'

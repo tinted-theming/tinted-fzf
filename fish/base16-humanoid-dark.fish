@@ -1,5 +1,6 @@
 # Base16 Humanoid dark
-# Author: Thomas (tasmo) Friese
+# Scheme author: Thomas (tasmo) Friese
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#232629'
 set -l color01 '#333b3d'

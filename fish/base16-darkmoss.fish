@@ -1,5 +1,6 @@
 # Base16 darkmoss
-# Author: Gabriel Avanzi (https://github.com/avanzzzi)
+# Scheme author: Gabriel Avanzi (https://github.com/avanzzzi)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#171e1f'
 set -l color01 '#252c2d'

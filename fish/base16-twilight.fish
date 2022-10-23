@@ -1,5 +1,6 @@
 # Base16 Twilight
-# Author: David Hart (https://github.com/hartbit)
+# Scheme author: David Hart (https://github.com/hartbit)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1e1e1e'
 set -l color01 '#323537'

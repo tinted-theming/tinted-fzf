@@ -1,5 +1,6 @@
 # Base16 Tomorrow Night
-# Author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1d1f21'
 set -l color01 '#282a2e'

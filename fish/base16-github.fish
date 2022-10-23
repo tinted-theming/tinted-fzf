@@ -1,5 +1,6 @@
 # Base16 Github
-# Author: Defman21
+# Scheme author: Defman21
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#ffffff'
 set -l color01 '#f5f5f5'

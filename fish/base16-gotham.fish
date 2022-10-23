@@ -1,5 +1,6 @@
 # Base16 Gotham
-# Author: Andrea Leopardi (arranged by Brett Jones)
+# Scheme author: Andrea Leopardi (arranged by Brett Jones)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#0c1014'
 set -l color01 '#11151c'

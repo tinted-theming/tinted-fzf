@@ -1,5 +1,6 @@
 # Base16 Material Lighter
-# Author: Nate Peterson
+# Scheme author: Nate Peterson
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fafafa'
 set -l color01 '#e7eaec'

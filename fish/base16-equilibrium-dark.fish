@@ -1,5 +1,6 @@
 # Base16 Equilibrium Dark
-# Author: Carlo Abelli
+# Scheme author: Carlo Abelli
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#0c1118'
 set -l color01 '#181c22'

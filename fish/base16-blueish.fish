@@ -1,5 +1,6 @@
 # Base16 Blueish
-# Author: Ben Mayoras
+# Scheme author: Ben Mayoras
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#182430'
 set -l color01 '#243c54'

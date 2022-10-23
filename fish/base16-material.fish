@@ -1,5 +1,6 @@
 # Base16 Material
-# Author: Nate Peterson
+# Scheme author: Nate Peterson
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#263238'
 set -l color01 '#2e3c43'

@@ -1,5 +1,6 @@
 # Base16 Kanagawa
-# Author: Tommaso Laurenzi (https://github.com/rebelot)
+# Scheme author: Tommaso Laurenzi (https://github.com/rebelot)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1f1f28'
 set -l color01 '#16161d'

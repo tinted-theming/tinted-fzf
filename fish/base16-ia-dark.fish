@@ -1,5 +1,6 @@
 # Base16 iA Dark
-# Author: iA Inc. (modified by aramisgithub)
+# Scheme author: iA Inc. (modified by aramisgithub)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1a1a1a'
 set -l color01 '#222222'

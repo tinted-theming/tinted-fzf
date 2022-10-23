@@ -1,5 +1,6 @@
 # Base16 Ayu Mirage
-# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#171b24'
 set -l color01 '#1f2430'

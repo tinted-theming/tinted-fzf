@@ -1,5 +1,6 @@
 # Base16 Atelier Lakeside
-# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#161b1d'
 set -l color01 '#1f292e'

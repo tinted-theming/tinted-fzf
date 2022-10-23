@@ -1,5 +1,6 @@
 # Base16 Edge Dark
-# Author: cjayross (https://github.com/cjayross)
+# Scheme author: cjayross (https://github.com/cjayross)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#262729'
 set -l color01 '#88909f'

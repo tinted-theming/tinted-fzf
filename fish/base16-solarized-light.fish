@@ -1,5 +1,6 @@
 # Base16 Solarized Light
-# Author: Ethan Schoonover (modified by aramisgithub)
+# Scheme author: Ethan Schoonover (modified by aramisgithub)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fdf6e3'
 set -l color01 '#eee8d5'

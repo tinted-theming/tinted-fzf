@@ -1,5 +1,6 @@
 # Base16 Woodland
-# Author: Jay Cornwall (https://jcornwall.com)
+# Scheme author: Jay Cornwall (https://jcornwall.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#231e18'
 set -l color01 '#302b25'

@@ -1,5 +1,6 @@
 # Base16 Atelier Seaside
-# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#131513'
 set -l color01 '#242924'

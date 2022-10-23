@@ -1,5 +1,6 @@
 # Base16 Gruvbox Material Light, Soft
-# Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Scheme author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f2e5bc'
 set -l color01 '#ebdbb2'

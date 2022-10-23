@@ -1,5 +1,6 @@
 # Base16 Marrakesh
-# Author: Alexandre Gavioli (http://github.com/Alexx2/)
+# Scheme author: Alexandre Gavioli (http://github.com/Alexx2/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#201602'
 set -l color01 '#302e00'

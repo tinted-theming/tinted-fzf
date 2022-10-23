@@ -1,5 +1,6 @@
 # Base16 Paraiso
-# Author: Jan T. Sott
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2f1e2e'
 set -l color01 '#41323f'

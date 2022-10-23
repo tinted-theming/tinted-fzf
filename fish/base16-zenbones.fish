@@ -1,5 +1,6 @@
 # Base16 Zenbones
-# Author: mcchrish
+# Scheme author: mcchrish
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#191919'
 set -l color01 '#de6e7c'

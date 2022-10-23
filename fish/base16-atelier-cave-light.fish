@@ -1,5 +1,6 @@
 # Base16 Atelier Cave Light
-# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#efecf4'
 set -l color01 '#e2dfe7'

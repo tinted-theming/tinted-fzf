@@ -1,5 +1,6 @@
 # Base16 Tokyodark
-# Author: Tiagovla (https://github.com/tiagovla/)
+# Scheme author: Tiagovla (https://github.com/tiagovla/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#11121d'
 set -l color01 '#151621'

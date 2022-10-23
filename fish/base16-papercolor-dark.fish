@@ -1,5 +1,6 @@
 # Base16 PaperColor Dark
-# Author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Scheme author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1c1c1c'
 set -l color01 '#af005f'

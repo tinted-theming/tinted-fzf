@@ -1,5 +1,6 @@
 # Base16 Monokai
-# Author: Wimer Hazenberg (http://www.monokai.nl)
+# Scheme author: Wimer Hazenberg (http://www.monokai.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#272822'
 set -l color01 '#383830'

@@ -1,5 +1,6 @@
 # Base16 Tokyo City Terminal Light
-# Author: Michaël Ball
+# Scheme author: Michaël Ball
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fbfbfd'
 set -l color01 '#f6f6f8'

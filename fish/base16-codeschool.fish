@@ -1,5 +1,6 @@
 # Base16 Codeschool
-# Author: blockloop
+# Scheme author: blockloop
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#232c31'
 set -l color01 '#1c3657'

@@ -1,5 +1,6 @@
 # Base16 3024
-# Author: Jan T. Sott (http://github.com/idleberg)
+# Scheme author: Jan T. Sott (http://github.com/idleberg)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#090300'
 set -l color01 '#3a3432'

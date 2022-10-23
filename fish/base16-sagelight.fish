@@ -1,5 +1,6 @@
 # Base16 Sagelight
-# Author: Carter Veldhuizen
+# Scheme author: Carter Veldhuizen
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f8f8f8'
 set -l color01 '#e8e8e8'

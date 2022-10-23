@@ -1,5 +1,6 @@
 # Base16 ShadeSmear Light
-# Author: Kyle Giammarco (http://kyle.giammar.co)
+# Scheme author: Kyle Giammarco (http://kyle.giammar.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#dbdbdb'
 set -l color01 '#e4e4e4'

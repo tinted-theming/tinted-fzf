@@ -1,5 +1,6 @@
 # Base16 Gruvbox light, medium
-# Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fbf1c7'
 set -l color01 '#ebdbb2'

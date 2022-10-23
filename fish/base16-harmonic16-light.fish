@@ -1,5 +1,6 @@
 # Base16 Harmonic16 Light
-# Author: Jannik Siebert (https://github.com/janniks)
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f7f9fb'
 set -l color01 '#e5ebf1'

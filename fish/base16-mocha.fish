@@ -1,5 +1,6 @@
 # Base16 Mocha
-# Author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#3b3228'
 set -l color01 '#534636'

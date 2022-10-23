@@ -1,5 +1,6 @@
 # Base16 PhD
-# Author: Hennig Hasemann (http://leetless.de/vim.html)
+# Scheme author: Hennig Hasemann (http://leetless.de/vim.html)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#061229'
 set -l color01 '#2a3448'

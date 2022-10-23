@@ -1,5 +1,6 @@
 # Base16 Brogrammer
-# Author: Vik Ramanujam (http://github.com/piggyslasher)
+# Scheme author: Vik Ramanujam (http://github.com/piggyslasher)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1f1f1f'
 set -l color01 '#f81118'

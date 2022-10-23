@@ -1,5 +1,6 @@
 # Base16 tender
-# Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+# Scheme author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#282828'
 set -l color01 '#383838'

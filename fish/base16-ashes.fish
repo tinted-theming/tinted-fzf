@@ -1,5 +1,6 @@
 # Base16 Ashes
-# Author: Jannik Siebert (https://github.com/janniks)
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1c2023'
 set -l color01 '#393f45'

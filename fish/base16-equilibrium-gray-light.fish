@@ -1,5 +1,6 @@
 # Base16 Equilibrium Gray Light
-# Author: Carlo Abelli
+# Scheme author: Carlo Abelli
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f1f1f1'
 set -l color01 '#e2e2e2'

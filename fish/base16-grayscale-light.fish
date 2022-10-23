@@ -1,5 +1,6 @@
 # Base16 Grayscale Light
-# Author: Alexandre Gavioli (https://github.com/Alexx2/)
+# Scheme author: Alexandre Gavioli (https://github.com/Alexx2/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f7f7f7'
 set -l color01 '#e3e3e3'

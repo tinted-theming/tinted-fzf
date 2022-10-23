@@ -1,5 +1,6 @@
 # Base16 Ocean
-# Author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2b303b'
 set -l color01 '#343d46'

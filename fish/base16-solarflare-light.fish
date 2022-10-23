@@ -1,5 +1,6 @@
 # Base16 Solar Flare Light
-# Author: Chuck Harmston (https://chuck.harmston.ch)
+# Scheme author: Chuck Harmston (https://chuck.harmston.ch)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f5f7fa'
 set -l color01 '#e8e9ed'

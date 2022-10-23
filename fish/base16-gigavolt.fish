@@ -1,5 +1,6 @@
 # Base16 Gigavolt
-# Author: Aidan Swope (http://github.com/Whillikers)
+# Scheme author: Aidan Swope (http://github.com/Whillikers)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#202126'
 set -l color01 '#2d303d'

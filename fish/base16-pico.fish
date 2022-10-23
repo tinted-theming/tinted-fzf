@@ -1,5 +1,6 @@
 # Base16 Pico
-# Author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+# Scheme author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#000000'
 set -l color01 '#1d2b53'

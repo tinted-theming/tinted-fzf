@@ -1,5 +1,6 @@
 # Base16 Bespin
-# Author: Jan T. Sott
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#28211c'
 set -l color01 '#36312e'

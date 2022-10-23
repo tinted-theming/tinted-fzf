@@ -1,5 +1,6 @@
 # Base16 Colors
-# Author: mrmrs (http://clrs.cc)
+# Scheme author: mrmrs (http://clrs.cc)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#111111'
 set -l color01 '#333333'

@@ -1,5 +1,6 @@
 # Base16 Embers
-# Author: Jannik Siebert (https://github.com/janniks)
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#16130f'
 set -l color01 '#2c2620'

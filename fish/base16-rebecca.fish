@@ -1,5 +1,6 @@
 # Base16 Rebecca
-# Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+# Scheme author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#292a44'
 set -l color01 '#663399'

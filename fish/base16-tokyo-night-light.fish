@@ -1,5 +1,6 @@
 # Base16 Tokyo Night Light
-# Author: Michaël Ball
+# Scheme author: Michaël Ball
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#d5d6db'
 set -l color01 '#cbccd1'

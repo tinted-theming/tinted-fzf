@@ -1,5 +1,6 @@
 # Base16 Atelier Estuary Light
-# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f4f3ec'
 set -l color01 '#e7e6df'

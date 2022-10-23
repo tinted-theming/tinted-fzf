@@ -1,5 +1,6 @@
 # Base16 Brush Trees
-# Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Scheme author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#e3efef'
 set -l color01 '#c9dbdc'

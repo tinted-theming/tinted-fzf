@@ -1,5 +1,6 @@
 # Base16 Sandcastle
-# Author: George Essig (https://github.com/gessig)
+# Scheme author: George Essig (https://github.com/gessig)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#282c34'
 set -l color01 '#2c323b'

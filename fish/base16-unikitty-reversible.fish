@@ -1,5 +1,6 @@
 # Base16 Unikitty Reversible
-# Author: Josh W Lewis (@joshwlewis)
+# Scheme author: Josh W Lewis (@joshwlewis)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2e2a31'
 set -l color01 '#4b484e'

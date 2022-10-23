@@ -1,5 +1,6 @@
 # Base16 Zenburn
-# Author: elnawe
+# Scheme author: elnawe
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#383838'
 set -l color01 '#404040'

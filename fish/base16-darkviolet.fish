@@ -1,5 +1,6 @@
 # Base16 Dark Violet
-# Author: ruler501 (https://github.com/ruler501/base16-darkviolet)
+# Scheme author: ruler501 (https://github.com/ruler501/base16-darkviolet)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#000000'
 set -l color01 '#231a40'

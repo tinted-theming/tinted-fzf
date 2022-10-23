@@ -1,5 +1,6 @@
 # Base16 Kimber
-# Author: Mishka Nguyen (https://github.com/akhsiM)
+# Scheme author: Mishka Nguyen (https://github.com/akhsiM)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#222222'
 set -l color01 '#313131'

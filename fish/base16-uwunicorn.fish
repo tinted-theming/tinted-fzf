@@ -1,5 +1,6 @@
 # Base16 UwUnicorn
-# Author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+# Scheme author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#241b26'
 set -l color01 '#2f2a3f'

@@ -1,5 +1,6 @@
 # Base16 Material Vivid
-# Author: joshyrobot
+# Scheme author: joshyrobot
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#202124'
 set -l color01 '#27292c'

@@ -1,5 +1,6 @@
 # Base16 Horizon Dark
-# Author: Michaël Ball (http://github.com/michael-ball/)
+# Scheme author: Michaël Ball (http://github.com/michael-ball/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1c1e26'
 set -l color01 '#232530'

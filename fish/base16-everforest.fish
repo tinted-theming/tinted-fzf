@@ -1,5 +1,6 @@
 # Base16 Everforest
-# Author: Sainnhe Park (https://github.com/sainnhe)
+# Scheme author: Sainnhe Park (https://github.com/sainnhe)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2f383e'
 set -l color01 '#374247'

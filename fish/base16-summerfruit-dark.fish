@@ -1,5 +1,6 @@
 # Base16 Summerfruit Dark
-# Author: Christopher Corley (http://christop.club/)
+# Scheme author: Christopher Corley (http://christop.club/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#151515'
 set -l color01 '#202020'

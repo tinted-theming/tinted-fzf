@@ -1,5 +1,6 @@
 # Base16 Hardcore
-# Author: Chris Caller
+# Scheme author: Chris Caller
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#212121'
 set -l color01 '#303030'

@@ -1,5 +1,6 @@
 # Base16 vulcan
-# Author: Andrey Varfolomeev
+# Scheme author: Andrey Varfolomeev
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#041523'
 set -l color01 '#122339'

@@ -1,5 +1,6 @@
 # Base16 Black Metal (Immortal)
-# Author: metalelf0 (https://github.com/metalelf0)
+# Scheme author: metalelf0 (https://github.com/metalelf0)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#000000'
 set -l color01 '#121212'

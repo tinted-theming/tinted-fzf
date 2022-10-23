@@ -1,5 +1,6 @@
 # Base16 Windows NT Light
-# Author: Fergus Collins (https://github.com/C-Fergus)
+# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#ffffff'
 set -l color01 '#eaeaea'

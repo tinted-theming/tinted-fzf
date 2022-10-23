@@ -1,5 +1,6 @@
 # Base16 Rosé Pine Dawn
-# Author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#faf4ed'
 set -l color01 '#fffaf3'

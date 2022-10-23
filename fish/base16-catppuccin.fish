@@ -1,5 +1,6 @@
 # Base16 Catppuccin
-# Author: Pocco81 (https://github.com/pocco81)
+# Scheme author: Pocco81 (https://github.com/pocco81)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1e1e28'
 set -l color01 '#1a1826'

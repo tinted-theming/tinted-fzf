@@ -1,5 +1,6 @@
 # Base16 Google Dark
-# Author: Seth Wright (http://sethawright.com)
+# Scheme author: Seth Wright (http://sethawright.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1d1f21'
 set -l color01 '#282a2e'

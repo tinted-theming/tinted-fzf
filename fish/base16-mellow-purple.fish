@@ -1,5 +1,6 @@
 # Base16 Mellow Purple
-# Author: gidsi
+# Scheme author: gidsi
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1e0528'
 set -l color01 '#1a092d'

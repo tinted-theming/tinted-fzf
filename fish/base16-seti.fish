@@ -1,5 +1,6 @@
 # Base16 Seti UI
-# Author: 
+# Scheme author: 
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#151718'
 set -l color01 '#282a2b'

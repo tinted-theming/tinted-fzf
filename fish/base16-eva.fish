@@ -1,5 +1,6 @@
 # Base16 Eva
-# Author: kjakapat (https://github.com/kjakapat)
+# Scheme author: kjakapat (https://github.com/kjakapat)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2a3b4d'
 set -l color01 '#3d566f'

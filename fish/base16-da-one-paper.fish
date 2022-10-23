@@ -1,5 +1,6 @@
 # Base16 Da One Paper
-# Author: NNB (https://github.com/NNBnh)
+# Scheme author: NNB (https://github.com/NNBnh)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#faf0dc'
 set -l color01 '#c8c8c8'

@@ -1,5 +1,6 @@
 # Base16 Primer Dark Dimmed
-# Author: Jimmy Lin
+# Scheme author: Jimmy Lin
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1c2128'
 set -l color01 '#373e47'

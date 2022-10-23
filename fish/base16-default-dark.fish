@@ -1,5 +1,6 @@
 # Base16 Default Dark
-# Author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#181818'
 set -l color01 '#282828'

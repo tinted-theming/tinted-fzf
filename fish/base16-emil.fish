@@ -1,5 +1,6 @@
 # Base16 emil
-# Author: limelier
+# Scheme author: limelier
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#efefef'
 set -l color01 '#bebed2'

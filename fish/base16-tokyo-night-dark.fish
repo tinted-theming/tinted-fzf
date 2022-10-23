@@ -1,5 +1,6 @@
 # Base16 Tokyo Night Dark
-# Author: Michaël Ball
+# Scheme author: Michaël Ball
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1a1b26'
 set -l color01 '#16161e'

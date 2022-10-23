@@ -1,5 +1,6 @@
 # Base16 Tokyo Night Terminal Storm
-# Author: Michaël Ball
+# Scheme author: Michaël Ball
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#24283b'
 set -l color01 '#1a1b26'

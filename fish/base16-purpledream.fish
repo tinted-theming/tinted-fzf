@@ -1,5 +1,6 @@
 # Base16 Purpledream
-# Author: malet
+# Scheme author: malet
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#100510'
 set -l color01 '#302030'

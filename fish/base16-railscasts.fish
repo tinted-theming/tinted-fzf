@@ -1,5 +1,6 @@
 # Base16 Railscasts
-# Author: Ryan Bates (http://railscasts.com)
+# Scheme author: Ryan Bates (http://railscasts.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2b2b2b'
 set -l color01 '#272935'

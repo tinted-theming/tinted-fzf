@@ -1,5 +1,6 @@
 # Base16 Silk Dark
-# Author: Gabriel Fontes (https://github.com/Misterio77)
+# Scheme author: Gabriel Fontes (https://github.com/Misterio77)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#0e3c46'
 set -l color01 '#1d494e'

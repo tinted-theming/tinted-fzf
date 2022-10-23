@@ -1,5 +1,6 @@
 # Base16 Hopscotch
-# Author: Jan T. Sott
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#322931'
 set -l color01 '#433b42'

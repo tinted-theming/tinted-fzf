@@ -1,5 +1,6 @@
 # Base16 Eighties
-# Author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2d2d2d'
 set -l color01 '#393939'

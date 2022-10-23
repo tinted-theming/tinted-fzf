@@ -1,5 +1,6 @@
 # Base16 Google Light
-# Author: Seth Wright (http://sethawright.com)
+# Scheme author: Seth Wright (http://sethawright.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#ffffff'
 set -l color01 '#e0e0e0'

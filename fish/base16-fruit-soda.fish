@@ -1,5 +1,6 @@
 # Base16 Fruit Soda
-# Author: jozip
+# Scheme author: jozip
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f1ecf1'
 set -l color01 '#e0dee0'

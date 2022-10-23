@@ -1,5 +1,6 @@
 # Base16 pinky
-# Author: Benjamin (https://github.com/b3nj5m1n)
+# Scheme author: Benjamin (https://github.com/b3nj5m1n)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#171517'
 set -l color01 '#1b181b'

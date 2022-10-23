@@ -1,5 +1,6 @@
 # Base16 One Light
-# Author: Daniel Pfeifer (http://github.com/purpleKarrot)
+# Scheme author: Daniel Pfeifer (http://github.com/purpleKarrot)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fafafa'
 set -l color01 '#f0f0f1'

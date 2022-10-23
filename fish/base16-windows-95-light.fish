@@ -1,5 +1,6 @@
 # Base16 Windows 95 Light
-# Author: Fergus Collins (https://github.com/C-Fergus)
+# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fcfcfc'
 set -l color01 '#e0e0e0'

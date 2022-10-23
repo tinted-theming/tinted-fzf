@@ -1,5 +1,6 @@
 # Base16 Flat
-# Author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2c3e50'
 set -l color01 '#34495e'

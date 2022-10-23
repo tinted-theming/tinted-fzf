@@ -1,5 +1,6 @@
 # Base16 Atelier Sulphurpool
-# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#202746'
 set -l color01 '#293256'

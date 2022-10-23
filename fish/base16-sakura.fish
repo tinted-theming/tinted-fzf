@@ -1,5 +1,6 @@
 # Base16 Sakura
-# Author: Misterio77 (http://github.com/Misterio77)
+# Scheme author: Misterio77 (http://github.com/Misterio77)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#feedf3'
 set -l color01 '#f8e2e7'

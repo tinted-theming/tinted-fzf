@@ -1,5 +1,6 @@
 # Base16 Outrun Dark
-# Author: Hugo Delahousse (http://github.com/hugodelahousse/)
+# Scheme author: Hugo Delahousse (http://github.com/hugodelahousse/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#00002a'
 set -l color01 '#20204a'

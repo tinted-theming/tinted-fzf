@@ -1,5 +1,6 @@
 # Base16 DanQing Light
-# Author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# Scheme author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fcfefd'
 set -l color01 '#ecf6f2'

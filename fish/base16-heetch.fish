@@ -1,5 +1,6 @@
 # Base16 Heetch Dark
-# Author: Geoffrey Teale (tealeg@gmail.com)
+# Scheme author: Geoffrey Teale (tealeg@gmail.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#190134'
 set -l color01 '#392551'

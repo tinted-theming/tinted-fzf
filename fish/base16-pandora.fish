@@ -1,5 +1,6 @@
 # Base16 pandora
-# Author: Cassandra Fox
+# Scheme author: Cassandra Fox
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#131213'
 set -l color01 '#2f1823'

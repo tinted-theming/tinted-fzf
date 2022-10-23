@@ -1,5 +1,6 @@
 # Base16 Humanoid light
-# Author: Thomas (tasmo) Friese
+# Scheme author: Thomas (tasmo) Friese
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f8f8f2'
 set -l color01 '#efefe9'

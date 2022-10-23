@@ -1,5 +1,6 @@
 # Base16 Apprentice
-# Author: romainl
+# Scheme author: romainl
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#262626'
 set -l color01 '#303030'

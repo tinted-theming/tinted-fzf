@@ -1,5 +1,6 @@
 # Base16 Darktooth
-# Author: Jason Milkins (https://github.com/jasonm23)
+# Scheme author: Jason Milkins (https://github.com/jasonm23)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1d2021'
 set -l color01 '#32302f'

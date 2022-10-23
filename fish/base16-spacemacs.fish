@@ -1,5 +1,6 @@
 # Base16 Spacemacs
-# Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+# Scheme author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1f2022'
 set -l color01 '#282828'

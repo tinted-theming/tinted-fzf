@@ -1,5 +1,6 @@
 # Base16 Da One Ocean
-# Author: NNB (https://github.com/NNBnh)
+# Scheme author: NNB (https://github.com/NNBnh)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#171726'
 set -l color01 '#22273d'

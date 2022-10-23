@@ -1,5 +1,6 @@
 # Base16 Horizon Light
-# Author: Michaël Ball (http://github.com/michael-ball/)
+# Scheme author: Michaël Ball (http://github.com/michael-ball/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fdf0ed'
 set -l color01 '#fadad1'

@@ -1,5 +1,6 @@
 # Base16 OneDark
-# Author: Lalit Magant (http://github.com/tilal6991)
+# Scheme author: Lalit Magant (http://github.com/tilal6991)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#282c34'
 set -l color01 '#353b45'

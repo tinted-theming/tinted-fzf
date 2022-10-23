@@ -1,5 +1,6 @@
 # Base16 Icy Dark
-# Author: icyphox (https://icyphox.ga)
+# Scheme author: icyphox (https://icyphox.ga)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#021012'
 set -l color01 '#031619'

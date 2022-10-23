@@ -1,5 +1,6 @@
 # Base16 Synth Midnight Terminal Light
-# Author: Michaël Ball (http://github.com/michael-ball/)
+# Scheme author: Michaël Ball (http://github.com/michael-ball/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#dddfe0'
 set -l color01 '#cfd1d2'

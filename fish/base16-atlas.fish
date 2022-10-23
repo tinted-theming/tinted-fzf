@@ -1,5 +1,6 @@
 # Base16 Atlas
-# Author: Alex Lende (https://ajlende.com)
+# Scheme author: Alex Lende (https://ajlende.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#002635'
 set -l color01 '#00384d'

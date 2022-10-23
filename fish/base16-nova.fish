@@ -1,5 +1,6 @@
 # Base16 Nova
-# Author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# Scheme author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#3c4c55'
 set -l color01 '#556873'

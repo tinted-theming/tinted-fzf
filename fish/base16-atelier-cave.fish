@@ -1,5 +1,6 @@
 # Base16 Atelier Cave
-# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#19171c'
 set -l color01 '#26232a'

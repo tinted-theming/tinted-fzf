@@ -1,5 +1,6 @@
 # Base16 Helios
-# Author: Alex Meyer (https://github.com/reyemxela)
+# Scheme author: Alex Meyer (https://github.com/reyemxela)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1d2021'
 set -l color01 '#383c3e'

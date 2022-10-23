@@ -1,5 +1,6 @@
 # Base16 Circus
-# Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+# Scheme author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#191919'
 set -l color01 '#202020'

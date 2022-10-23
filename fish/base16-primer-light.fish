@@ -1,5 +1,6 @@
 # Base16 Primer Light
-# Author: Jimmy Lin
+# Scheme author: Jimmy Lin
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fafbfc'
 set -l color01 '#e1e4e8'

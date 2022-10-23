@@ -1,5 +1,6 @@
 # Base16 Brewer
-# Author: Timothée Poisot (http://github.com/tpoisot)
+# Scheme author: Timothée Poisot (http://github.com/tpoisot)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#0c0d0e'
 set -l color01 '#2e2f30'

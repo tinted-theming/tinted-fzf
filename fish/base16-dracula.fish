@@ -1,5 +1,6 @@
 # Base16 Dracula
-# Author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+# Scheme author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#282936'
 set -l color01 '#3a3c4e'

@@ -1,5 +1,6 @@
 # Base16 vice
-# Author: Thomas Leon Highbaugh thighbaugh@zoho.com
+# Scheme author: Thomas Leon Highbaugh thighbaugh@zoho.com
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#17191e'
 set -l color01 '#22262d'

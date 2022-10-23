@@ -1,5 +1,6 @@
 # Base16 Summerfruit Light
-# Author: Christopher Corley (http://christop.club/)
+# Scheme author: Christopher Corley (http://christop.club/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#ffffff'
 set -l color01 '#e0e0e0'

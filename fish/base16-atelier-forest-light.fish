@@ -1,5 +1,6 @@
 # Base16 Atelier Forest Light
-# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f1efee'
 set -l color01 '#e6e2e0'

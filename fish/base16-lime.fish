@@ -1,5 +1,6 @@
 # Base16 lime
-# Author: limelier
+# Scheme author: limelier
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1a1a2f'
 set -l color01 '#202030'

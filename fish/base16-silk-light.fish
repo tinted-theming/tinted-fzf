@@ -1,5 +1,6 @@
 # Base16 Silk Light
-# Author: Gabriel Fontes (https://github.com/Misterio77)
+# Scheme author: Gabriel Fontes (https://github.com/Misterio77)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#e9f1ef'
 set -l color01 '#ccd4d3'

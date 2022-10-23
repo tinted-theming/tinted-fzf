@@ -1,5 +1,6 @@
 # Base16 Framer
-# Author: Framer (Maintained by Jesse Hoyos)
+# Scheme author: Framer (Maintained by Jesse Hoyos)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#181818'
 set -l color01 '#151515'

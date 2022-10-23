@@ -1,5 +1,6 @@
 # Base16 Tango
-# Author: @Schnouki, based on the Tango Desktop Project
+# Scheme author: @Schnouki, based on the Tango Desktop Project
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2e3436'
 set -l color01 '#8ae234'

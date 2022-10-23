@@ -1,5 +1,6 @@
 # Base16 Still Alive
-# Author: Derrick McKee (derrick.mckee@gmail.com)
+# Scheme author: Derrick McKee (derrick.mckee@gmail.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f0f0f0'
 set -l color01 '#f0d848'

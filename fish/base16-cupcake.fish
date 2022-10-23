@@ -1,5 +1,6 @@
 # Base16 Cupcake
-# Author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fbf1f2'
 set -l color01 '#f2f1f4'

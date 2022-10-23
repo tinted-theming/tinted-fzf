@@ -1,5 +1,6 @@
 # Base16 Edge Light
-# Author: cjayross (https://github.com/cjayross)
+# Scheme author: cjayross (https://github.com/cjayross)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fafafa'
 set -l color01 '#7c9f4b'

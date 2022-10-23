@@ -1,5 +1,6 @@
 # Base16 IR Black
-# Author: Timothée Poisot (http://timotheepoisot.fr)
+# Scheme author: Timothée Poisot (http://timotheepoisot.fr)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#000000'
 set -l color01 '#242422'

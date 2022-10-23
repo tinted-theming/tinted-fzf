@@ -1,5 +1,6 @@
 # Base16 Espresso
-# Author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+# Scheme author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2d2d2d'
 set -l color01 '#393939'

@@ -1,5 +1,6 @@
 # Base16 dirtysea
-# Author: Kahlil (Kal) Hodgson
+# Scheme author: Kahlil (Kal) Hodgson
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#e0e0e0'
 set -l color01 '#d0dad0'

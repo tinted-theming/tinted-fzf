@@ -1,5 +1,6 @@
 # Base16 summercamp
-# Author: zoe firi (zoefiri.github.io)
+# Scheme author: zoe firi (zoefiri.github.io)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1c1810'
 set -l color01 '#2a261c'

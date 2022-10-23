@@ -1,5 +1,6 @@
 # Base16 Stella
-# Author: Shrimpram
+# Scheme author: Shrimpram
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2b213c'
 set -l color01 '#362b48'

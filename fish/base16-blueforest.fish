@@ -1,5 +1,6 @@
 # Base16 Blue Forest
-# Author: alonsodomin (https://github.com/alonsodomin)
+# Scheme author: alonsodomin (https://github.com/alonsodomin)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#141f2e'
 set -l color01 '#1e5c1e'

@@ -1,5 +1,6 @@
 # Base16 Unikitty Light
-# Author: Josh W Lewis (@joshwlewis)
+# Scheme author: Josh W Lewis (@joshwlewis)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#ffffff'
 set -l color01 '#e1e1e2'

@@ -1,5 +1,6 @@
 # Base16 Default Light
-# Author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f8f8f8'
 set -l color01 '#e8e8e8'

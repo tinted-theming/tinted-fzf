@@ -1,5 +1,6 @@
 # Base16 Shapeshifter
-# Author: Tyler Benziger (http://tybenz.com)
+# Scheme author: Tyler Benziger (http://tybenz.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f9f9f9'
 set -l color01 '#e0e0e0'

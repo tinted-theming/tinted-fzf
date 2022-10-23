@@ -1,5 +1,6 @@
 # Base16 Darcula
-# Author: jetbrains
+# Scheme author: jetbrains
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#2b2b2b'
 set -l color01 '#323232'

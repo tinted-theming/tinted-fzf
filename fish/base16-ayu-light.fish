@@ -1,5 +1,6 @@
 # Base16 Ayu Light
-# Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#fafafa'
 set -l color01 '#f3f4f5'
