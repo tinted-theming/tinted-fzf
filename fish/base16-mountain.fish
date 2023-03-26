@@ -1,5 +1,5 @@
 # Base16 Mountain
-# Scheme author: gnsfujiwara (https://github.com/gnsfujiwara) based on Mountain Theme (https://github.com/mountain-theme/Mountain)
+# Scheme author: gnsfujiwara (https://github.com/gnsfujiwara)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#0f0f0f'
@@ -7,9 +7,9 @@ set -l color01 '#191919'
 set -l color02 '#262626'
 set -l color03 '#4c4c4c'
 set -l color04 '#ac8a8c'
-set -l color05 '#f0f0f0'
+set -l color05 '#cacaca'
 set -l color06 '#e7e7e7'
-set -l color07 '#cacaca'
+set -l color07 '#f0f0f0'
 set -l color08 '#ac8a8c'
 set -l color09 '#ceb188'
 set -l color0A '#aca98a'

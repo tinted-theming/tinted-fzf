@@ -1,23 +1,23 @@
-# Base16 Apprentice
-# Scheme author: romainl
+# Base16 Catppuccin Mocha
+# Scheme author: https://github.com/catppuccin/catppuccin
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#262626'
-set -l color01 '#af5f5f'
-set -l color02 '#5f875f'
-set -l color03 '#87875f'
-set -l color04 '#5f87af'
-set -l color05 '#5f5f87'
-set -l color06 '#5f8787'
-set -l color07 '#6c6c6c'
-set -l color08 '#444444'
-set -l color09 '#ff8700'
-set -l color0A '#87af87'
-set -l color0B '#ffffaf'
-set -l color0C '#87afd7'
-set -l color0D '#8787af'
-set -l color0E '#5fafaf'
-set -l color0F '#bcbcbc'
+set -l color00 '#1e1e2e'
+set -l color01 '#181825'
+set -l color02 '#313244'
+set -l color03 '#45475a'
+set -l color04 '#585b70'
+set -l color05 '#cdd6f4'
+set -l color06 '#f5e0dc'
+set -l color07 '#b4befe'
+set -l color08 '#f38ba8'
+set -l color09 '#fab387'
+set -l color0A '#f9e2af'
+set -l color0B '#a6e3a1'
+set -l color0C '#94e2d5'
+set -l color0D '#89b4fa'
+set -l color0E '#cba6f7'
+set -l color0F '#f2cdcd'
 
 set -l FZF_NON_COLOR_OPTS
 
