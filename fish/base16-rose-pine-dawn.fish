@@ -1,23 +1,23 @@
 # Base16 Rosé Pine Dawn
-# Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#faf4ed'
 set -l color01 '#fffaf3'
 set -l color02 '#f2e9de'
 set -l color03 '#9893a5'
-set -l color04 '#6e6a86'
+set -l color04 '#797593'
 set -l color05 '#575279'
-set -l color06 '#555169'
-set -l color07 '#26233a'
-set -l color08 '#1f1d2e'
-set -l color09 '#b4637a'
-set -l color0A '#ea9d34'
-set -l color0B '#d7827e'
-set -l color0C '#286983'
-set -l color0D '#56949f'
-set -l color0E '#907aa9'
-set -l color0F '#c5c3ce'
+set -l color06 '#575279'
+set -l color07 '#cecacd'
+set -l color08 '#b4637a'
+set -l color09 '#ea9d34'
+set -l color0A '#d7827e'
+set -l color0B '#286983'
+set -l color0C '#56949f'
+set -l color0D '#907aa9'
+set -l color0E '#ea9d34'
+set -l color0F '#cecacd'
 
 set -l FZF_NON_COLOR_OPTS
 
