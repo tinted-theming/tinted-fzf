@@ -12,12 +12,16 @@ existing `FZF_DEFAULT_OPTS` environment variable.
 
 ## Installation
 
-### Bash & Zsh
+### Posix complaint shell (sh, bash, zsh)
 
-Source your favorite base16 color scheme from the `bash` directory into
-your bash or zsh configuration file. The generated `bash` scripts append
+Source your favorite base16 color scheme from the `sh/` directory into
+your shell configuration file. The generated `sh/` scripts append
 `--color` options naively to your `FZF_DEFAULT_OPTS` environment
 variable.
+
+**Deprecated**: The `bash/` exists for people who have locally cloned
+this repo and are already using it, but `sh/` directory should be used
+for all posix compliant shells.
 
 ### Fish
 

@@ -1,6 +1,10 @@
-default:
+legacy:
     extension: .config
     output: bash
+
+default:
+    extension: .sh
+    output: sh
 
 fish:
     extension: .fish
