@@ -1,30 +1,9 @@
-# Base16 Mellow Purple
+# Scheme name: Mellow Purple
+# Scheme system: base16
 # Scheme author: gidsi
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-_gen_fzf_default_opts() {
-
-  color00='#1e0528'
-  color01='#1a092d'
-  color02='#331354'
-  color03='#320f55'
-  color04='#873582'
-  color05='#ffeeff'
-  color06='#ffeeff'
-  color07='#f8c0ff'
-  color08='#00d9e9'
-  color09='#aa00a3'
-  color0A='#955ae7'
-  color0B='#05cb0d'
-  color0C='#b900b1'
-  color0D='#550068'
-  color0E='#8991bb'
-  color0F='#4d6fff'
-
-  export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
-  " --color=bg+:$color01,bg:$color00,spinner:$color0C,hl:$color0D"\
-  " --color=fg:$color04,header:$color0D,info:$color0A,pointer:$color0C"\
-  " --color=marker:$color0C,fg+:$color06,prompt:$color0A,hl+:$color0D"
-}
-
-_gen_fzf_default_opts
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS" \
+  " --color=bg+:#1a092d,bg:#1e0528,spinner:#b900b1,hl:#550068" \
+  " --color=fg:#873582,header:#550068,info:#955ae7,pointer:#b900b1" \
+  " --color=marker:#b900b1,fg+:#ffeeff,prompt:#955ae7,hl+:#550068"
