@@ -1,4 +1,5 @@
-# Base16 Pasque
+# Scheme name: Pasque
+# Scheme system: base16
 # Scheme author: Gabriel Fontes (https://github.com/Misterio77)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

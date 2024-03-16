@@ -1,4 +1,5 @@
-# Base16 OneDark
+# Scheme name: OneDark
+# Scheme system: base16
 # Scheme author: Lalit Magant (http://github.com/tilal6991)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

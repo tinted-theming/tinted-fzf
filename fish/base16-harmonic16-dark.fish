@@ -1,4 +1,5 @@
-# Base16 Harmonic16 Dark
+# Scheme name: Harmonic16 Dark
+# Scheme system: base16
 # Scheme author: Jannik Siebert (https://github.com/janniks)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

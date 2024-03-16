@@ -1,4 +1,5 @@
-# Base16 Google Light
+# Scheme name: Google Light
+# Scheme system: base16
 # Scheme author: Seth Wright (http://sethawright.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

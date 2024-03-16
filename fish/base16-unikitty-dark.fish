@@ -1,4 +1,5 @@
-# Base16 Unikitty Dark
+# Scheme name: Unikitty Dark
+# Scheme system: base16
 # Scheme author: Josh W Lewis (@joshwlewis)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

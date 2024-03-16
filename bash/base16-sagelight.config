@@ -1,4 +1,5 @@
-# Base16 Sagelight
+# Scheme name: Sagelight
+# Scheme system: base16
 # Scheme author: Carter Veldhuizen
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

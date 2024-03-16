@@ -1,4 +1,5 @@
-# Base16 SAGA
+# Scheme name: SAGA
+# Scheme system: base16
 # Scheme author: https://github.com/SAGAtheme/SAGA
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

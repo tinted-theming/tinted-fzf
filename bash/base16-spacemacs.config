@@ -1,4 +1,5 @@
-# Base16 Spacemacs
+# Scheme name: Spacemacs
+# Scheme system: base16
 # Scheme author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Kanagawa
+# Scheme name: Kanagawa
+# Scheme system: base16
 # Scheme author: Tommaso Laurenzi (https://github.com/rebelot)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

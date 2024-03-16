@@ -1,4 +1,5 @@
-# Base16 Circus
+# Scheme name: Circus
+# Scheme system: base16
 # Scheme author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

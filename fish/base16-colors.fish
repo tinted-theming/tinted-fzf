@@ -1,4 +1,5 @@
-# Base16 Colors
+# Scheme name: Colors
+# Scheme system: base16
 # Scheme author: mrmrs (http://clrs.cc)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Rosé Pine Moon
+# Scheme name: Rosé Pine Moon
+# Scheme system: base16
 # Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

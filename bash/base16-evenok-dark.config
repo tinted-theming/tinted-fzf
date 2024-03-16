@@ -1,4 +1,5 @@
-# Base16 Evenok Dark
+# Scheme name: Evenok Dark
+# Scheme system: base16
 # Scheme author: Mekeor Melire
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

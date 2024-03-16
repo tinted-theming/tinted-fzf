@@ -1,4 +1,5 @@
-# Base16 Da One Gray
+# Scheme name: Da One Gray
+# Scheme system: base16
 # Scheme author: NNB (https://github.com/NNBnh)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

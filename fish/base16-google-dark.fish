@@ -1,4 +1,5 @@
-# Base16 Google Dark
+# Scheme name: Google Dark
+# Scheme system: base16
 # Scheme author: Seth Wright (http://sethawright.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

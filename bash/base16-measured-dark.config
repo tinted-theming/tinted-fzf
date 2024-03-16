@@ -1,4 +1,5 @@
-# Base16 Measured Dark
+# Scheme name: Measured Dark
+# Scheme system: base16
 # Scheme author: Measured (https://measured.co)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

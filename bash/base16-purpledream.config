@@ -1,4 +1,5 @@
-# Base16 Purpledream
+# Scheme name: Purpledream
+# Scheme system: base16
 # Scheme author: malet
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

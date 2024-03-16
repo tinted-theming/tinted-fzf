@@ -1,4 +1,5 @@
-# Base16 Black Metal (Burzum)
+# Scheme name: Black Metal (Burzum)
+# Scheme system: base16
 # Scheme author: metalelf0 (https://github.com/metalelf0)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

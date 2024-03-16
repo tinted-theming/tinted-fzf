@@ -1,4 +1,5 @@
-# Base16 Catppuccin Macchiato
+# Scheme name: Catppuccin Macchiato
+# Scheme system: base16
 # Scheme author: https://github.com/catppuccin/catppuccin
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

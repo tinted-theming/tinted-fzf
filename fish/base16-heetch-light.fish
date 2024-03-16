@@ -1,4 +1,5 @@
-# Base16 Heetch Light
+# Scheme name: Heetch Light
+# Scheme system: base16
 # Scheme author: Geoffrey Teale (tealeg@gmail.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

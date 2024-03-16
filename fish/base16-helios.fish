@@ -1,4 +1,5 @@
-# Base16 Helios
+# Scheme name: Helios
+# Scheme system: base16
 # Scheme author: Alex Meyer (https://github.com/reyemxela)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

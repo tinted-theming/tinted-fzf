@@ -1,4 +1,5 @@
-# Base16 Zenbones
+# Scheme name: Zenbones
+# Scheme system: base16
 # Scheme author: mcchrish
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

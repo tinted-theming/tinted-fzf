@@ -1,4 +1,5 @@
-# Base16 Blue Forest
+# Scheme name: Blue Forest
+# Scheme system: base16
 # Scheme author: alonsodomin (https://github.com/alonsodomin)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

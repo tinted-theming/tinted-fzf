@@ -1,4 +1,5 @@
-# Base16 vice
+# Scheme name: vice
+# Scheme system: base16
 # Scheme author: Thomas Leon Highbaugh thighbaugh@zoho.com
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

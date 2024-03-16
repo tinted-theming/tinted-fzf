@@ -1,4 +1,5 @@
-# Base16 Brewer
+# Scheme name: Brewer
+# Scheme system: base16
 # Scheme author: Timothée Poisot (http://github.com/tpoisot)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

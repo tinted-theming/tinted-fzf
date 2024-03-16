@@ -1,4 +1,5 @@
-# Base16 Windows NT Light
+# Scheme name: Windows NT Light
+# Scheme system: base16
 # Scheme author: Fergus Collins (https://github.com/C-Fergus)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

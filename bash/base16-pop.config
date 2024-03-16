@@ -1,4 +1,5 @@
-# Base16 Pop
+# Scheme name: Pop
+# Scheme system: base16
 # Scheme author: Chris Kempson (http://chriskempson.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

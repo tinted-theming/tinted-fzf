@@ -1,4 +1,5 @@
-# Base16 Nord Light
+# Scheme name: Nord Light
+# Scheme system: base16
 # Scheme author: threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

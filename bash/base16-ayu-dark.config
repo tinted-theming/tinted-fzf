@@ -1,4 +1,5 @@
-# Base16 Ayu Dark
+# Scheme name: Ayu Dark
+# Scheme system: base16
 # Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

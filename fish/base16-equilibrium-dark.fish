@@ -1,4 +1,5 @@
-# Base16 Equilibrium Dark
+# Scheme name: Equilibrium Dark
+# Scheme system: base16
 # Scheme author: Carlo Abelli
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

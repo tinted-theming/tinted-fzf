@@ -1,4 +1,5 @@
-# Base16 Unikitty Reversible
+# Scheme name: Unikitty Reversible
+# Scheme system: base16
 # Scheme author: Josh W Lewis (@joshwlewis)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Gotham
+# Scheme name: Gotham
+# Scheme system: base16
 # Scheme author: Andrea Leopardi (arranged by Brett Jones)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Stella
+# Scheme name: Stella
+# Scheme system: base16
 # Scheme author: Shrimpram
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

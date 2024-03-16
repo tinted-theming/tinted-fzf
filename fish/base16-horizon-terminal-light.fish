@@ -1,4 +1,5 @@
-# Base16 Horizon Terminal Light
+# Scheme name: Horizon Terminal Light
+# Scheme system: base16
 # Scheme author: Michaël Ball (http://github.com/michael-ball/)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

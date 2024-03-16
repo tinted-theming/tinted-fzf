@@ -1,4 +1,5 @@
-# Base16 Eva
+# Scheme name: Eva
+# Scheme system: base16
 # Scheme author: kjakapat (https://github.com/kjakapat)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

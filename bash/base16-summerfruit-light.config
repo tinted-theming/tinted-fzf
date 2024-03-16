@@ -1,4 +1,5 @@
-# Base16 Summerfruit Light
+# Scheme name: Summerfruit Light
+# Scheme system: base16
 # Scheme author: Christopher Corley (http://christop.club/)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

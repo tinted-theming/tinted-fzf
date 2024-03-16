@@ -1,4 +1,5 @@
-# Base16 Railscasts
+# Scheme name: Railscasts
+# Scheme system: base16
 # Scheme author: Ryan Bates (http://railscasts.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

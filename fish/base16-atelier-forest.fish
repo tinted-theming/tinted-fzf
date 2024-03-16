@@ -1,4 +1,5 @@
-# Base16 Atelier Forest
+# Scheme name: Atelier Forest
+# Scheme system: base16
 # Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

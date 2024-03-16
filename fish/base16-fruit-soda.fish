@@ -1,4 +1,5 @@
-# Base16 Fruit Soda
+# Scheme name: Fruit Soda
+# Scheme system: base16
 # Scheme author: jozip
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

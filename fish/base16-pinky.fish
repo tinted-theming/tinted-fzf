@@ -1,4 +1,5 @@
-# Base16 pinky
+# Scheme name: pinky
+# Scheme system: base16
 # Scheme author: Benjamin (https://github.com/b3nj5m1n)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

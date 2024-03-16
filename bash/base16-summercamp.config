@@ -1,4 +1,5 @@
-# Base16 summercamp
+# Scheme name: summercamp
+# Scheme system: base16
 # Scheme author: zoe firi (zoefiri.github.io)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

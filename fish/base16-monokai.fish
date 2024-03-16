@@ -1,4 +1,5 @@
-# Base16 Monokai
+# Scheme name: Monokai
+# Scheme system: base16
 # Scheme author: Wimer Hazenberg (http://www.monokai.nl)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

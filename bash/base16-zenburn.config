@@ -1,4 +1,5 @@
-# Base16 Zenburn
+# Scheme name: Zenburn
+# Scheme system: base16
 # Scheme author: elnawe
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

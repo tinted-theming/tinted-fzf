@@ -1,4 +1,5 @@
-# Base16 Material Palenight
+# Scheme name: Material Palenight
+# Scheme system: base16
 # Scheme author: Nate Peterson
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

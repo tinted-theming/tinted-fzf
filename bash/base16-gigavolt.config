@@ -1,4 +1,5 @@
-# Base16 Gigavolt
+# Scheme name: Gigavolt
+# Scheme system: base16
 # Scheme author: Aidan Swope (http://github.com/Whillikers)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

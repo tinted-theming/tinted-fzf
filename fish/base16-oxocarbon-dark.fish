@@ -1,4 +1,5 @@
-# Base16 Oxocarbon Dark
+# Scheme name: Oxocarbon Dark
+# Scheme system: base16
 # Scheme author: shaunsingh/IBM
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

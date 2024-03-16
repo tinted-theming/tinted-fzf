@@ -1,4 +1,5 @@
-# Base16 tender
+# Scheme name: tender
+# Scheme system: base16
 # Scheme author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

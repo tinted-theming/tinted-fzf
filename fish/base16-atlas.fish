@@ -1,4 +1,5 @@
-# Base16 Atlas
+# Scheme name: Atlas
+# Scheme system: base16
 # Scheme author: Alex Lende (https://ajlende.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

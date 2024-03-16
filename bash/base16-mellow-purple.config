@@ -1,4 +1,5 @@
-# Base16 Mellow Purple
+# Scheme name: Mellow Purple
+# Scheme system: base16
 # Scheme author: gidsi
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

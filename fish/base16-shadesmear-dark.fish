@@ -1,4 +1,5 @@
-# Base16 ShadeSmear Dark
+# Scheme name: ShadeSmear Dark
+# Scheme system: base16
 # Scheme author: Kyle Giammarco (http://kyle.giammar.co)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Github
+# Scheme name: Github
+# Scheme system: base16
 # Scheme author: Defman21
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

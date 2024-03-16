@@ -1,4 +1,5 @@
-# Base16 Shapeshifter
+# Scheme name: Shapeshifter
+# Scheme system: base16
 # Scheme author: Tyler Benziger (http://tybenz.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

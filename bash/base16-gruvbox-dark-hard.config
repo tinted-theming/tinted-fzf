@@ -1,4 +1,5 @@
-# Base16 Gruvbox dark, hard
+# Scheme name: Gruvbox dark, hard
+# Scheme system: base16
 # Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

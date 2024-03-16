@@ -1,4 +1,5 @@
-# Base16 Windows High Contrast
+# Scheme name: Windows High Contrast
+# Scheme system: base16
 # Scheme author: Fergus Collins (https://github.com/C-Fergus)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

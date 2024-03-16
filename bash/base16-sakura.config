@@ -1,4 +1,5 @@
-# Base16 Sakura
+# Scheme name: Sakura
+# Scheme system: base16
 # Scheme author: Misterio77 (http://github.com/Misterio77)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

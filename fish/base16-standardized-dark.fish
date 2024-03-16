@@ -1,4 +1,5 @@
-# Base16 standardized-dark
+# Scheme name: standardized-dark
+# Scheme system: base16
 # Scheme author: ali (https://github.com/ali-githb/base16-standardized-scheme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

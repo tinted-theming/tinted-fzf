@@ -1,4 +1,5 @@
-# Base16 Porple
+# Scheme name: Porple
+# Scheme system: base16
 # Scheme author: Niek den Breeje (https://github.com/AuditeMarlow)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

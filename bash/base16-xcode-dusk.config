@@ -1,4 +1,5 @@
-# Base16 XCode Dusk
+# Scheme name: XCode Dusk
+# Scheme system: base16
 # Scheme author: Elsa Gonsiorowski (https://github.com/gonsie)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Apprentice
+# Scheme name: Apprentice
+# Scheme system: base16
 # Scheme author: romainl
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Pico
+# Scheme name: Pico
+# Scheme system: base16
 # Scheme author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

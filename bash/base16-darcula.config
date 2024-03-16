@@ -1,4 +1,5 @@
-# Base16 Darcula
+# Scheme name: Darcula
+# Scheme system: base16
 # Scheme author: jetbrains
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

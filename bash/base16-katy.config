@@ -1,4 +1,5 @@
-# Base16 Katy
+# Scheme name: Katy
+# Scheme system: base16
 # Scheme author: George Essig (https://github.com/gessig)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

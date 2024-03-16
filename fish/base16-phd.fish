@@ -1,4 +1,5 @@
-# Base16 PhD
+# Scheme name: PhD
+# Scheme system: base16
 # Scheme author: Hennig Hasemann (http://leetless.de/vim.html)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

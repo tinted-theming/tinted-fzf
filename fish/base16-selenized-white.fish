@@ -1,4 +1,5 @@
-# Base16 selenized-white
+# Scheme name: selenized-white
+# Scheme system: base16
 # Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

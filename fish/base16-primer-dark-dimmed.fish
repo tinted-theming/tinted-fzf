@@ -1,4 +1,5 @@
-# Base16 Primer Dark Dimmed
+# Scheme name: Primer Dark Dimmed
+# Scheme system: base16
 # Scheme author: Jimmy Lin
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

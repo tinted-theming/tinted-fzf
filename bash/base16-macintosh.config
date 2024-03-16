@@ -1,4 +1,5 @@
-# Base16 Macintosh
+# Scheme name: Macintosh
+# Scheme system: base16
 # Scheme author: Rebecca Bettencourt (http://www.kreativekorp.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

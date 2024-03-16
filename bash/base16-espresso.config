@@ -1,4 +1,5 @@
-# Base16 Espresso
+# Scheme name: Espresso
+# Scheme system: base16
 # Scheme author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

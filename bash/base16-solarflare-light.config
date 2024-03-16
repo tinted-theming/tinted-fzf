@@ -1,4 +1,5 @@
-# Base16 Solar Flare Light
+# Scheme name: Solar Flare Light
+# Scheme system: base16
 # Scheme author: Chuck Harmston (https://chuck.harmston.ch)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

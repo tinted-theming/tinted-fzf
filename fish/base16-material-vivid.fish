@@ -1,4 +1,5 @@
-# Base16 Material Vivid
+# Scheme name: Material Vivid
+# Scheme system: base16
 # Scheme author: joshyrobot
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

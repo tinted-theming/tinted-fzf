@@ -1,4 +1,5 @@
-# Base16 Material Lighter
+# Scheme name: Material Lighter
+# Scheme system: base16
 # Scheme author: Nate Peterson
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

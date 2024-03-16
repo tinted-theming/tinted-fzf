@@ -1,4 +1,5 @@
-# Base16 UwUnicorn
+# Scheme name: UwUnicorn
+# Scheme system: base16
 # Scheme author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

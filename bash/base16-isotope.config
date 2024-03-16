@@ -1,4 +1,5 @@
-# Base16 Isotope
+# Scheme name: Isotope
+# Scheme system: base16
 # Scheme author: Jan T. Sott
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

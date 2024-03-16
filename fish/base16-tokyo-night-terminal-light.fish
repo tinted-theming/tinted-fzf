@@ -1,4 +1,5 @@
-# Base16 Tokyo Night Terminal Light
+# Scheme name: Tokyo Night Terminal Light
+# Scheme system: base16
 # Scheme author: Michaël Ball
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

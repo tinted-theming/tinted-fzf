@@ -1,4 +1,5 @@
-# Base16 Still Alive
+# Scheme name: Still Alive
+# Scheme system: base16
 # Scheme author: Derrick McKee (derrick.mckee@gmail.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

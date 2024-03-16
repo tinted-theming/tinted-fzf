@@ -1,4 +1,5 @@
-# Base16 DanQing
+# Scheme name: DanQing
+# Scheme system: base16
 # Scheme author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

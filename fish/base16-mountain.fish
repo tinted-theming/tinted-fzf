@@ -1,4 +1,5 @@
-# Base16 Mountain
+# Scheme name: Mountain
+# Scheme system: base16
 # Scheme author: gnsfujiwara (https://github.com/gnsfujiwara)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Icy Dark
+# Scheme name: Icy Dark
+# Scheme system: base16
 # Scheme author: icyphox (https://icyphox.ga)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

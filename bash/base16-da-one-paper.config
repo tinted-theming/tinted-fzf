@@ -1,4 +1,5 @@
-# Base16 Da One Paper
+# Scheme name: Da One Paper
+# Scheme system: base16
 # Scheme author: NNB (https://github.com/NNBnh)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

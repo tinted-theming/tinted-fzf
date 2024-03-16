@@ -1,4 +1,5 @@
-# Base16 Material Darker
+# Scheme name: Material Darker
+# Scheme system: base16
 # Scheme author: Nate Peterson
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

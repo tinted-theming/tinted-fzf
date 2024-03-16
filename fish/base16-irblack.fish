@@ -1,4 +1,5 @@
-# Base16 IR Black
+# Scheme name: IR Black
+# Scheme system: base16
 # Scheme author: Timothée Poisot (http://timotheepoisot.fr)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

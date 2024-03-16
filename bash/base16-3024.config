@@ -1,4 +1,5 @@
-# Base16 3024
+# Scheme name: 3024
+# Scheme system: base16
 # Scheme author: Jan T. Sott (http://github.com/idleberg)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

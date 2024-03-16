@@ -1,4 +1,5 @@
-# Base16 Nova
+# Scheme name: Nova
+# Scheme system: base16
 # Scheme author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

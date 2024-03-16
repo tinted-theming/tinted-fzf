@@ -1,4 +1,5 @@
-# Base16 lime
+# Scheme name: lime
+# Scheme system: base16
 # Scheme author: limelier
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

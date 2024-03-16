@@ -1,4 +1,5 @@
-# Base16 Blueish
+# Scheme name: Blueish
+# Scheme system: base16
 # Scheme author: Ben Mayoras
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

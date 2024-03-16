@@ -1,4 +1,5 @@
-# Base16 Rebecca
+# Scheme name: Rebecca
+# Scheme system: base16
 # Scheme author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

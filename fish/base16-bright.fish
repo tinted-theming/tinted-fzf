@@ -1,4 +1,5 @@
-# Base16 Bright
+# Scheme name: Bright
+# Scheme system: base16
 # Scheme author: Chris Kempson (http://chriskempson.com)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

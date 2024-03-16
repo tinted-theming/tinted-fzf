@@ -1,4 +1,5 @@
-# Base16 Unikitty Light
+# Scheme name: Unikitty Light
+# Scheme system: base16
 # Scheme author: Josh W Lewis (@joshwlewis)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

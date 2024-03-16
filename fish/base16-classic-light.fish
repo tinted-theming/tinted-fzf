@@ -1,4 +1,5 @@
-# Base16 Classic Light
+# Scheme name: Classic Light
+# Scheme system: base16
 # Scheme author: Jason Heeris (http://heeris.id.au)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

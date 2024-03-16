@@ -1,4 +1,5 @@
-# Base16 Everforest
+# Scheme name: Everforest
+# Scheme system: base16
 # Scheme author: Sainnhe Park (https://github.com/sainnhe)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

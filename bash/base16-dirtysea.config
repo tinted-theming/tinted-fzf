@@ -1,4 +1,5 @@
-# Base16 dirtysea
+# Scheme name: dirtysea
+# Scheme system: base16
 # Scheme author: Kahlil (Kal) Hodgson
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

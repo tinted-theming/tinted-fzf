@@ -1,4 +1,5 @@
-# Base16 Framer
+# Scheme name: Framer
+# Scheme system: base16
 # Scheme author: Framer (Maintained by Jesse Hoyos)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

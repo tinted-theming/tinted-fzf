@@ -1,4 +1,5 @@
-# Base16 pandora
+# Scheme name: pandora
+# Scheme system: base16
 # Scheme author: Cassandra Fox
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

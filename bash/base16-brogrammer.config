@@ -1,4 +1,5 @@
-# Base16 Brogrammer
+# Scheme name: Brogrammer
+# Scheme system: base16
 # Scheme author: Vik Ramanujam (http://github.com/piggyslasher)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

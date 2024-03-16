@@ -1,4 +1,5 @@
-# Base16 Decaf
+# Scheme name: Decaf
+# Scheme system: base16
 # Scheme author: Alex Mirrington (https://github.com/alexmirrington)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

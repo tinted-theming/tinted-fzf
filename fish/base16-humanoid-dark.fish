@@ -1,4 +1,5 @@
-# Base16 Humanoid dark
+# Scheme name: Humanoid dark
+# Scheme system: base16
 # Scheme author: Thomas (tasmo) Friese
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

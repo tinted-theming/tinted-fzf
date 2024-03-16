@@ -1,4 +1,5 @@
-# Base16 Everforest Dark Hard
+# Scheme name: Everforest Dark Hard
+# Scheme system: base16
 # Scheme author: Oskar Liew (https://github.com/OskarLiew)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

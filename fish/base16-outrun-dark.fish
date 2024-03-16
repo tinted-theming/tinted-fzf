@@ -1,4 +1,5 @@
-# Base16 Outrun Dark
+# Scheme name: Outrun Dark
+# Scheme system: base16
 # Scheme author: Hugo Delahousse (http://github.com/hugodelahousse/)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

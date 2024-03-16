@@ -1,4 +1,5 @@
-# Base16 Darktooth
+# Scheme name: Darktooth
+# Scheme system: base16
 # Scheme author: Jason Milkins (https://github.com/jasonm23)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

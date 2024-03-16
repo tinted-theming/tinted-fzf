@@ -1,4 +1,5 @@
-# Base16 Gruvbox Material Light, Medium
+# Scheme name: Gruvbox Material Light, Medium
+# Scheme system: base16
 # Scheme author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

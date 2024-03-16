@@ -1,4 +1,5 @@
-# Base16 Tokyo Night Terminal Storm
+# Scheme name: Tokyo Night Terminal Storm
+# Scheme system: base16
 # Scheme author: Michaël Ball
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 OceanicNext
+# Scheme name: OceanicNext
+# Scheme system: base16
 # Scheme author: https://github.com/voronianski/oceanic-next-color-scheme
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

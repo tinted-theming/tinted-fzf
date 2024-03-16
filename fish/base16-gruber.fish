@@ -1,4 +1,5 @@
-# Base16 Gruber
+# Scheme name: Gruber
+# Scheme system: base16
 # Scheme author: Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Tokyodark
+# Scheme name: Tokyodark
+# Scheme system: base16
 # Scheme author: Tiagovla (https://github.com/tiagovla/)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

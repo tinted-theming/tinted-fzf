@@ -1,4 +1,5 @@
-# Base16 Humanoid light
+# Scheme name: Humanoid light
+# Scheme system: base16
 # Scheme author: Thomas (tasmo) Friese
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

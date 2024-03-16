@@ -1,4 +1,5 @@
-# Base16 Catppuccin Mocha
+# Scheme name: Catppuccin Mocha
+# Scheme system: base16
 # Scheme author: https://github.com/catppuccin/catppuccin
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

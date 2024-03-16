@@ -1,4 +1,5 @@
-# Base16 Windows 10 Light
+# Scheme name: Windows 10 Light
+# Scheme system: base16
 # Scheme author: Fergus Collins (https://github.com/C-Fergus)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

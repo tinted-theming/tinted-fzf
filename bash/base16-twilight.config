@@ -1,4 +1,5 @@
-# Base16 Twilight
+# Scheme name: Twilight
+# Scheme system: base16
 # Scheme author: David Hart (https://github.com/hartbit)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

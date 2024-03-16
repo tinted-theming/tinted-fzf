@@ -1,4 +1,5 @@
-# Base16 Nord
+# Scheme name: Nord
+# Scheme system: base16
 # Scheme author: arcticicestudio
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

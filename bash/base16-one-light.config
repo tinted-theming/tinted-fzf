@@ -1,4 +1,5 @@
-# Base16 One Light
+# Scheme name: One Light
+# Scheme system: base16
 # Scheme author: Daniel Pfeifer (http://github.com/purpleKarrot)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

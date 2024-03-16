@@ -1,4 +1,5 @@
-# Base16 Bespin
+# Scheme name: Bespin
+# Scheme system: base16
 # Scheme author: Jan T. Sott
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

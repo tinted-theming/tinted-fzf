@@ -1,4 +1,5 @@
-# Base16 Vesper
+# Scheme name: Vesper
+# Scheme system: base16
 # Scheme author: FormalSnake (https://github.com/formalsnake)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 vulcan
+# Scheme name: vulcan
+# Scheme system: base16
 # Scheme author: Andrey Varfolomeev
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

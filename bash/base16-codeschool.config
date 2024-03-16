@@ -1,4 +1,5 @@
-# Base16 Codeschool
+# Scheme name: Codeschool
+# Scheme system: base16
 # Scheme author: blockloop
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

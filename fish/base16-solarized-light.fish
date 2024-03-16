@@ -1,4 +1,5 @@
-# Base16 Solarized Light
+# Scheme name: Solarized Light
+# Scheme system: base16
 # Scheme author: Ethan Schoonover (modified by aramisgithub)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

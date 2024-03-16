@@ -1,4 +1,5 @@
-# Base16 eris
+# Scheme name: eris
+# Scheme system: base16
 # Scheme author: ed (https://codeberg.org/ed)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Atelier Estuary Light
+# Scheme name: Atelier Estuary Light
+# Scheme system: base16
 # Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

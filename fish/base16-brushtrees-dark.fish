@@ -1,4 +1,5 @@
-# Base16 Brush Trees Dark
+# Scheme name: Brush Trees Dark
+# Scheme system: base16
 # Scheme author: Abraham White &lt;abelincoln.white@gmail.com&gt;
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

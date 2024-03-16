@@ -1,4 +1,5 @@
-# Base16 Marrakesh
+# Scheme name: Marrakesh
+# Scheme system: base16
 # Scheme author: Alexandre Gavioli (http://github.com/Alexx2/)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

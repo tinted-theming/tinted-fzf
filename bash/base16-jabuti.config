@@ -1,4 +1,5 @@
-# Base16 Jabuti
+# Scheme name: Jabuti
+# Scheme system: base16
 # Scheme author: https://github.com/notusknot
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

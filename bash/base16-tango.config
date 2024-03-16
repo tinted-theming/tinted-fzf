@@ -1,4 +1,5 @@
-# Base16 Tango
+# Scheme name: Tango
+# Scheme system: base16
 # Scheme author: @Schnouki, based on the Tango Desktop Project
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 iA Dark
+# Scheme name: iA Dark
+# Scheme system: base16
 # Scheme author: iA Inc. (modified by aramisgithub)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

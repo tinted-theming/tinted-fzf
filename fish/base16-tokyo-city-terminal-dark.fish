@@ -1,4 +1,5 @@
-# Base16 Tokyo City Terminal Dark
+# Scheme name: Tokyo City Terminal Dark
+# Scheme system: base16
 # Scheme author: Michaël Ball
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

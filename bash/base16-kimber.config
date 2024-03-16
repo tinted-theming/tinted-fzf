@@ -1,4 +1,5 @@
-# Base16 Kimber
+# Scheme name: Kimber
+# Scheme system: base16
 # Scheme author: Mishka Nguyen (https://github.com/akhsiM)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

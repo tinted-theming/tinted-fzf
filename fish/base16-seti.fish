@@ -1,4 +1,5 @@
-# Base16 Seti UI
+# Scheme name: Seti UI
+# Scheme system: base16
 # Scheme author: 
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

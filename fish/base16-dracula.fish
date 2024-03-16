@@ -1,4 +1,5 @@
-# Base16 Dracula
+# Scheme name: Dracula
+# Scheme system: base16
 # Scheme author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

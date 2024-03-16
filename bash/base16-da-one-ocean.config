@@ -1,4 +1,5 @@
-# Base16 Da One Ocean
+# Scheme name: Da One Ocean
+# Scheme system: base16
 # Scheme author: NNB (https://github.com/NNBnh)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

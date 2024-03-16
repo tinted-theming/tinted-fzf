@@ -1,4 +1,5 @@
-# Base16 Equilibrium Gray Light
+# Scheme name: Equilibrium Gray Light
+# Scheme system: base16
 # Scheme author: Carlo Abelli
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

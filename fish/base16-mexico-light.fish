@@ -1,4 +1,5 @@
-# Base16 Mexico Light
+# Scheme name: Mexico Light
+# Scheme system: base16
 # Scheme author: Sheldon Johnson
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

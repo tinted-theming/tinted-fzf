@@ -1,4 +1,5 @@
-# Base16 darkmoss
+# Scheme name: darkmoss
+# Scheme system: base16
 # Scheme author: Gabriel Avanzi (https://github.com/avanzzzi)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

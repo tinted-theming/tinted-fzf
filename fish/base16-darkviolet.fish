@@ -1,4 +1,5 @@
-# Base16 Dark Violet
+# Scheme name: Dark Violet
+# Scheme system: base16
 # Scheme author: ruler501 (https://github.com/ruler501/base16-darkviolet)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

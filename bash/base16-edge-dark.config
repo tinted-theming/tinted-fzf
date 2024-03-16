@@ -1,4 +1,5 @@
-# Base16 Edge Dark
+# Scheme name: Edge Dark
+# Scheme system: base16
 # Scheme author: cjayross (https://github.com/cjayross)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 

@@ -1,4 +1,5 @@
-# Base16 Qualia
+# Scheme name: Qualia
+# Scheme system: base16
 # Scheme author: isaacwhanson
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
