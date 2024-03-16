@@ -2,14 +2,29 @@ legacy:
     extension: .config
     output: bash
 
-default:
+base16-default:
     extension: .sh
     output: sh
 
-fish:
+base24-default:
+    extension: .sh
+    output: sh
+    supported-systems: [base24]
+
+base16-fish:
     extension: .fish
     output: fish
 
-powershell:
+base24-fish:
+    extension: .fish
+    output: fish
+    supported-systems: [base24]
+
+base16-powershell:
     extension: .ps1
     output: powershell
+
+base24-powershell:
+    extension: .ps1
+    output: powershell
+    supported-systems: [base24]
