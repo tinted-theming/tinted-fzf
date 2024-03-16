@@ -39,6 +39,24 @@ The themes are built using [base16-builder-go][4].
 Add the powershell theme file contents to your
 `~/Documents/PowerShell/Microsoft.PowerShell_profile.ps1` file.
 
+### ANSI Passthrough Support
+
+By default, fzf supports ANSI color passthrough. If you're interested in
+utilizing our enhanced version, which includes support for ANSI
+passthrough, follow the instructions below based on your shell:
+
+- **Posix shells (sh, bash, zsh):** Source the `ansi/ansi.sh` script or append
+  its contents to your shell's initialization file (e.g. `.bashrc`,
+  `.zshrc`).
+- **Fish shell:** Source the `ansi/ansi.fish` script or add its contents to your
+  config.fish file located at `~/.config/fish/config.fish`.
+- **Powershell:** Incorporate the `ansi/ansi.ps1` script's contents into your
+  profile script, typically found at
+  `~/Documents/PowerShell/Microsoft.PowerShell_profile.ps1`.
+
+This version ensures consistent ANSI color passthrough across different
+shell environments, enhancing your experience with fzf.
+
 ## Contributing
 
 See [`CONTRIBUTING.md`][9], which contains building and contributing
