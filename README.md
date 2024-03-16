@@ -34,6 +34,11 @@ different color schemes.
 
 The themes are built using [base16-builder-go][4].
 
+### Powershell
+
+Add the powershell theme file contents to your
+`~/Documents/PowerShell/Microsoft.PowerShell_profile.ps1` file.
+
 ## Contributing
 
 See [`CONTRIBUTING.md`][9], which contains building and contributing

@@ -9,3 +9,7 @@ default:
 fish:
     extension: .fish
     output: fish
+
+powershell:
+    extension: .ps1
+    output: powershell
