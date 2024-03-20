@@ -1,5 +1,7 @@
 # tinted-fzf
 
+[![Matrix Chat](https://img.shields.io/matrix/tinted-theming:matrix.org)](https://matrix.to/#/#tinted-theming:matrix.org)
+
 This repository provides [Base16] and [Base24] color schemes for [fzf], a
 command-line fuzzy finder written in Go.
 
