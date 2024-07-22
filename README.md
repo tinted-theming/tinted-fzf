@@ -69,7 +69,7 @@ shell environments, enhancing your experience with fzf.
 See [CONTRIBUTING.md], which contains building and contributing
 instructions.
 
-This theme was built with [builder-go].
+This template's themes were built with [builder-rust].
 
 ## Screenshots
 
@@ -81,7 +81,7 @@ This theme was built with [builder-go].
 [Base24]: https://github.com/tinted-theming/base24
 [Tinted Theming]: https://github.com/tinted-theming/home
 [fzf]: https://github.com/junegunn/fzf
-[builder-go]: https://github.com/tinted-theming/base16-builder-go
+[builder-rust]: https://github.com/tinted-theming/tinted-builder-rust
 [CONTRIBUTING.md]: CONTRIBUTING.md
 [base16-fzf]: https://github.com/tinted-theming/base16-fzf
 [1]: screenshots/base16-solarized-dark.png
