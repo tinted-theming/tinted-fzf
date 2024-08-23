@@ -1,24 +1,24 @@
-# Scheme name: Everforest Dark Hard
+# Scheme name: Terracotta
 # Scheme system: base16
-# Scheme author: Sainnhe Park (https://github.com/sainnhe)
+# Scheme author: Alexander Rossell Hayes (https://github.com/rossellhayes)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#272e33'
-set -l color01 '#2e383c'
-set -l color02 '#414b50'
-set -l color03 '#859289'
-set -l color04 '#9da9a0'
-set -l color05 '#d3c6aa'
-set -l color06 '#edeada'
-set -l color07 '#fffbef'
-set -l color08 '#e67e80'
-set -l color09 '#e69875'
-set -l color0A '#dbbc7f'
-set -l color0B '#a7c080'
-set -l color0C '#83c092'
-set -l color0D '#7fbbb3'
-set -l color0E '#d699b6'
-set -l color0F '#9da9a0'
+set -l color00 '#efeae8'
+set -l color01 '#dfd6d1'
+set -l color02 '#d0c1bb'
+set -l color03 '#c0aca4'
+set -l color04 '#59453d'
+set -l color05 '#473731'
+set -l color06 '#352a25'
+set -l color07 '#241c19'
+set -l color08 '#a75045'
+set -l color09 '#bd6942'
+set -l color0A '#ce943e'
+set -l color0B '#7a894a'
+set -l color0C '#847f9e'
+set -l color0D '#625574'
+set -l color0E '#8d5968'
+set -l color0F '#b07158'
 
 set -l FZF_NON_COLOR_OPTS
 

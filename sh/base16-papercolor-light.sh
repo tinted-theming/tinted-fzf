@@ -1,6 +1,8 @@
 # Scheme name: PaperColor Light
 # Scheme system: base16
-# Scheme author: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Scheme author: Jon Leopard (http://github.com/jonleopard)
+based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\

@@ -1,6 +1,8 @@
 # Scheme name: Shades of Purple
 # Scheme system: base16
-# Scheme author: Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+# Scheme author: Iolar Demartini Junior (http://github.com/demartini
+based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#1e1e3f'

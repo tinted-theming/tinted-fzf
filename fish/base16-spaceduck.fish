@@ -1,6 +1,8 @@
 # Scheme name: Spaceduck
 # Scheme system: base16
-# Scheme author: Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+# Scheme author: Guillermo Rodriguez (https://github.com/pineapplegiant),
+packaged by Gabriel Fontes (https://github.com/Misterio77)
+
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#16172d'

@@ -1,24 +1,24 @@
-# Scheme name: Everforest Dark Hard
+# Scheme name: OneDark Dark
 # Scheme system: base16
-# Scheme author: Sainnhe Park (https://github.com/sainnhe)
+# Scheme author: olimorris (https://github.com/olimorris)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#272e33'
-set -l color01 '#2e383c'
-set -l color02 '#414b50'
-set -l color03 '#859289'
-set -l color04 '#9da9a0'
-set -l color05 '#d3c6aa'
-set -l color06 '#edeada'
-set -l color07 '#fffbef'
-set -l color08 '#e67e80'
-set -l color09 '#e69875'
-set -l color0A '#dbbc7f'
-set -l color0B '#a7c080'
-set -l color0C '#83c092'
-set -l color0D '#7fbbb3'
-set -l color0E '#d699b6'
-set -l color0F '#9da9a0'
+set -l color00 '#000000'
+set -l color01 '#1c1f24'
+set -l color02 '#2c313a'
+set -l color03 '#434852'
+set -l color04 '#565c64'
+set -l color05 '#abb2bf'
+set -l color06 '#b6bdca'
+set -l color07 '#c8ccd4'
+set -l color08 '#ef596f'
+set -l color09 '#d19a66'
+set -l color0A '#e5c07b'
+set -l color0B '#89ca78'
+set -l color0C '#2bbac5'
+set -l color0D '#61afef'
+set -l color0E '#d55fde'
+set -l color0F '#be5046'
 
 set -l FZF_NON_COLOR_OPTS
 
