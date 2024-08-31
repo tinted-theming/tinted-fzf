@@ -1,23 +1,23 @@
 # Scheme name: Tokyodark
 # Scheme system: base16
-# Scheme author: Tiagovla (https://github.com/tiagovla/)
+# Scheme author: Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#11121d'
-set -l color01 '#151621'
-set -l color02 '#43444f'
-set -l color03 '#393a45'
-set -l color04 '#1b1c27'
-set -l color05 '#abb2bf'
-set -l color06 '#555661'
-set -l color07 '#2c2d38'
-set -l color08 '#a485dd'
-set -l color09 '#a485dd'
-set -l color0A '#7199ee'
-set -l color0B '#d7a65f'
-set -l color0C '#a485dd'
-set -l color0D '#95c561'
-set -l color0E '#ee6d85'
+set -l color01 '#212234'
+set -l color02 '#212234'
+set -l color03 '#353945'
+set -l color04 '#4a5057'
+set -l color05 '#a0a8cd'
+set -l color06 '#abb2bf'
+set -l color07 '#bcc2dc'
+set -l color08 '#ee6d85'
+set -l color09 '#f6955b'
+set -l color0A '#d7a65f'
+set -l color0B '#95c561'
+set -l color0C '#9fbbf3'
+set -l color0D '#7199ee'
+set -l color0E '#a485dd'
 set -l color0F '#773440'
 
 set -l FZF_NON_COLOR_OPTS

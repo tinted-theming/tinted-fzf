@@ -1,24 +1,24 @@
 # Scheme name: Dracula
 # Scheme system: base16
-# Scheme author: Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+# Scheme author: Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#282936'
-set -l color01 '#3a3c4e'
-set -l color02 '#4d4f68'
-set -l color03 '#626483'
-set -l color04 '#62d6e8'
-set -l color05 '#e9e9f4'
-set -l color06 '#f1f2f8'
-set -l color07 '#f7f7fb'
-set -l color08 '#ea51b2'
-set -l color09 '#b45bcf'
-set -l color0A '#00f769'
-set -l color0B '#ebff87'
-set -l color0C '#a1efe4'
-set -l color0D '#62d6e8'
-set -l color0E '#b45bcf'
-set -l color0F '#00f769'
+set -l color00 '#282a36'
+set -l color01 '#363447'
+set -l color02 '#44475a'
+set -l color03 '#6272a4'
+set -l color04 '#9ea8c7'
+set -l color05 '#f8f8f2'
+set -l color06 '#f0f1f4'
+set -l color07 '#ffffff'
+set -l color08 '#ff5555'
+set -l color09 '#ffb86c'
+set -l color0A '#f1fa8c'
+set -l color0B '#50fa7b'
+set -l color0C '#8be9fd'
+set -l color0D '#80bfff'
+set -l color0E '#ff79c6'
+set -l color0F '#bd93f9'
 
 set -l FZF_NON_COLOR_OPTS
 
