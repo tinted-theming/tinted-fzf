@@ -1,9 +1,9 @@
 # Scheme name: Deep Oceanic Next
 # Scheme system: base16
-# Scheme author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+# Scheme author: spearkkk (https://github.com/spearkkk)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
-" --color=bg+:#004f5e,bg:#003b46,spinner:#4da6a6,hl:#3a82e6"\
-" --color=fg:#0093a3,header:#3a82e6,info:#ffcc66,pointer:#4da6a6"\
-" --color=marker:#4da6a6,fg+:#e6ebf0,prompt:#ffcc66,hl+:#3a82e6"
+" --color=bg+:#002931,bg:#001c1f,spinner:#4fb7ae,hl:#568ccf"\
+" --color=fg:#0093a3,header:#568ccf,info:#f3b863,pointer:#4fb7ae"\
+" --color=marker:#4fb7ae,fg+:#e0e9ef,prompt:#f3b863,hl+:#568ccf"

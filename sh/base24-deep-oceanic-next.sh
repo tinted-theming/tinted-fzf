@@ -1,9 +1,9 @@
 # base24-Deep Oceanic Next
-# Scheme author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+# Scheme author: spearkkk (https://github.com/spearkkk)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 export FZF_DEFAULT_OPTS=" \
- --color=bg:#003b46,fg:#dce3e8,hl:#ff6a4b\
- --color=bg+:#006374,fg+:#dce3e8,hl+:#ffdd80\
- --color=info:#4da6ff,border:#3a82e6,prompt:#85b57a\
- --color=pointer:#003b46,marker:#ff5a61,spinner:#ff5a61,header:#e6454b"
+ --color=bg:#001c1f,fg:#d4e1e8,hl:#e37552\
+ --color=bg+:#003640,fg+:#d4e1e8,hl+:#ffe08a\
+ --color=info:#5caeff,border:#568ccf,prompt:#63b784\
+ --color=pointer:#001c1f,marker:#ff6670,spinner:#ff6670,header:#d3464d"
