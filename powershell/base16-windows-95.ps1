@@ -1,6 +1,6 @@
 # Scheme name: Windows 95
 # Scheme system: base16
-# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+# Scheme author: Fergus Collins (https://github.com/ferguscollins)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 $ENV:FZF_DEFAULT_OPTS=@"
