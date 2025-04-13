@@ -1,4 +1,4 @@
-# Scheme name: Gruvbox Dark
+# Scheme name: Gruvbox Light
 # Scheme system: base24
 # Scheme author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
@@ -12,7 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg:#282828,fg:#ebdbb2,hl:#d65d0e"\
-" --color=bg+:#504945,fg+:#b8bb26,hl+:#fabd2f"\
+" --color=bg:#fbf1c7,fg:#3c3836,hl:#d65d0e"\
+" --color=bg+:#d5c4a1,fg+:#79740e,hl+:#b57614"\
 " --color=info:#b16286,border:#b16286,prompt:#98971a"\
-" --color=pointer:#458588,marker:#fb4934,spinner:#fb4934,header:#cc241d"
+" --color=pointer:#458588,marker:#9d0006,spinner:#9d0006,header:#cc241d"

@@ -1,16 +1,16 @@
-# Scheme name: Gruvbox dark, medium
+# Scheme name: Gruvbox Light
 # Scheme system: base16
 # Scheme author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#282828'
-set -l color01 '#3c3836'
-set -l color02 '#504945'
-set -l color03 '#665c54'
-set -l color04 '#928374'
-set -l color05 '#ebdbb2'
-set -l color06 '#fbf1c7'
-set -l color07 '#f9f5d7'
+set -l color00 '#fbf1c7'
+set -l color01 '#ebdbb2'
+set -l color02 '#d5c4a1'
+set -l color03 '#bdae93'
+set -l color04 '#7c6f64'
+set -l color05 '#3c3836'
+set -l color06 '#282828'
+set -l color07 '#1d2021'
 set -l color08 '#cc241d'
 set -l color09 '#d65d0e'
 set -l color0A '#d79921'

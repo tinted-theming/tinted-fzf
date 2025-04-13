@@ -1,9 +1,9 @@
 # base24-Gruvbox Dark
-# Scheme author: FredHappyface (https://github.com/fredHappyface)
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 export FZF_DEFAULT_OPTS=" \
- --color=bg:#1d1d1d,fg:#91816c,hl:#cc871a\
- --color=bg+:#7f7060,fg+:#91816c,hl+:#f7b024\
- --color=info:#709585,border:#377274,prompt:#868715\
- --color=pointer:#1d1d1d,marker:#f63028,spinner:#f63028,header:#be0e17"
+ --color=bg:#282828,fg:#ebdbb2,hl:#d65d0e\
+ --color=bg+:#504945,fg+:#ebdbb2,hl+:#fabd2f\
+ --color=info:#83a598,border:#458588,prompt:#98971a\
+ --color=pointer:#282828,marker:#fb4934,spinner:#fb4934,header:#cc241d"
