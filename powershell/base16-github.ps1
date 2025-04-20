@@ -1,10 +1,10 @@
 # Scheme name: Github
 # Scheme system: base16
-# Scheme author: Defman21
+# Scheme author: Tinted Theming (https://github.com/tinted-theming)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 $ENV:FZF_DEFAULT_OPTS=@"
---color=bg+:#f5f5f5,bg:#ffffff,spinner:#183691,hl:#795da3
---color=fg:#e8e8e8,header:#795da3,info:#795da3,pointer:#183691
---color=marker:#183691,fg+:#ffffff,prompt:#795da3,hl+:#795da3
+--color=bg+:#d0d7de,bg:#eaeef2,spinner:#339d9b,hl:#218bff
+--color=fg:#6e7781,header:#218bff,info:#bf8700,pointer:#339d9b
+--color=marker:#339d9b,fg+:#32383f,prompt:#bf8700,hl+:#218bff
 "@
