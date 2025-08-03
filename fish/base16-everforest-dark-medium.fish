@@ -1,24 +1,24 @@
-# Scheme name: Tomorrow
+# Scheme name: Everforest Dark Medium
 # Scheme system: base16
-# Scheme author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Sainnhe Park (https://github.com/sainnhe)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#ffffff'
-set -l color01 '#e0e0e0'
-set -l color02 '#c5c8c6'
-set -l color03 '#b4b7b4'
-set -l color04 '#969896'
-set -l color05 '#373b41'
-set -l color06 '#282a2e'
-set -l color07 '#1d1f21'
-set -l color08 '#c82829'
-set -l color09 '#f5871f'
-set -l color0A '#eab700'
-set -l color0B '#718c00'
-set -l color0C '#3e999f'
-set -l color0D '#4271ae'
-set -l color0E '#8959a8'
-set -l color0F '#a3685a'
+set -l color00 '#2d353b'
+set -l color01 '#343f44'
+set -l color02 '#3d484d'
+set -l color03 '#475258'
+set -l color04 '#7a8478'
+set -l color05 '#859289'
+set -l color06 '#9da9a0'
+set -l color07 '#d3c6aa'
+set -l color08 '#e67e80'
+set -l color09 '#e69875'
+set -l color0A '#dbbc7f'
+set -l color0B '#a7c080'
+set -l color0C '#83c092'
+set -l color0D '#7fbbb3'
+set -l color0E '#d699b6'
+set -l color0F '#514045'
 
 set -l FZF_NON_COLOR_OPTS
 

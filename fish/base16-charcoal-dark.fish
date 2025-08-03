@@ -1,24 +1,24 @@
-# Scheme name: Tomorrow
+# Scheme name: Charcoal Dark
 # Scheme system: base16
-# Scheme author: Chris Kempson (http://chriskempson.com)
+# Scheme author: Mubin Muhammad (https://github.com/mubin6th)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#ffffff'
-set -l color01 '#e0e0e0'
-set -l color02 '#c5c8c6'
-set -l color03 '#b4b7b4'
-set -l color04 '#969896'
-set -l color05 '#373b41'
-set -l color06 '#282a2e'
-set -l color07 '#1d1f21'
-set -l color08 '#c82829'
-set -l color09 '#f5871f'
-set -l color0A '#eab700'
-set -l color0B '#718c00'
-set -l color0C '#3e999f'
-set -l color0D '#4271ae'
-set -l color0E '#8959a8'
-set -l color0F '#a3685a'
+set -l color00 '#120f09'
+set -l color01 '#1e1812'
+set -l color02 '#35291d'
+set -l color03 '#66553f'
+set -l color04 '#a28662'
+set -l color05 '#c0a179'
+set -l color06 '#d6b891'
+set -l color07 '#292016'
+set -l color08 '#887254'
+set -l color09 '#d6b891'
+set -l color0A '#c0a179'
+set -l color0B '#927a60'
+set -l color0C '#a28662'
+set -l color0D '#d6b891'
+set -l color0E '#a28662'
+set -l color0F '#887254'
 
 set -l FZF_NON_COLOR_OPTS
 
