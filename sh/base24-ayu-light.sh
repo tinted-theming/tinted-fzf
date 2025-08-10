@@ -1,9 +1,9 @@
 # base24-Ayu Light
-# Scheme author: FredHappyface (https://github.com/fredHappyface)
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 export FZF_DEFAULT_OPTS=" \
- --color=bg:#fafafa,fg:#cbcbcb,hl:#f29718\
- --color=bg+:#323232,fg+:#cbcbcb,hl+:#ffc94a\
- --color=info:#73d8ff,border:#41a6d9,prompt:#86b300\
- --color=pointer:#fafafa,marker:#ff6565,spinner:#ff6565,header:#ff3333"
+ --color=bg:#f8f9fa,fg:#5c6166,hl:#fa8d3e\
+ --color=bg+:#d2d4d8,fg+:#5c6166,hl+:#ffaa33\
+ --color=info:#478acc,border:#399ee6,prompt:#6cbf49\
+ --color=pointer:#f8f9fa,marker:#ff7383,spinner:#ff7383,header:#f07171"

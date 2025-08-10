@@ -1,22 +1,22 @@
 # Scheme name: Ayu Light
 # Scheme system: base16
-# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#fafafa'
-set -l color01 '#f3f4f5'
-set -l color02 '#f8f9fa'
-set -l color03 '#abb0b6'
-set -l color04 '#828c99'
-set -l color05 '#5c6773'
-set -l color06 '#242936'
-set -l color07 '#1a1f29'
-set -l color08 '#f07178'
+set -l color00 '#f8f9fa'
+set -l color01 '#edeff1'
+set -l color02 '#d2d4d8'
+set -l color03 '#a0a6ac'
+set -l color04 '#8a9199'
+set -l color05 '#5c6166'
+set -l color06 '#4e5257'
+set -l color07 '#404447'
+set -l color08 '#f07171'
 set -l color09 '#fa8d3e'
 set -l color0A '#f2ae49'
-set -l color0B '#86b300'
+set -l color0B '#6cbf49'
 set -l color0C '#4cbf99'
-set -l color0D '#36a3d9'
+set -l color0D '#399ee6'
 set -l color0E '#a37acc'
 set -l color0F '#e6ba7e'
 

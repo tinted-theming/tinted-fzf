@@ -1,11 +1,11 @@
-# Scheme name: Ayu Light
+# Scheme name: Ayu Dark
 # Scheme system: base24
 # Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 $ENV:FZF_DEFAULT_OPTS=@"
---color=bg:#f8f9fa,fg:#5c6166,hl:#fa8d3e
---color=bg+:#d2d4d8,fg+:#86b300,hl+:#ffaa33
---color=info:#a37acc,border:#a37acc,prompt:#6cbf49
---color=pointer:#399ee6,marker:#ff7383,spinner:#ff7383,header:#f07171
+--color=bg:#0b0e14,fg:#e6e1cf,hl:#ff8f40
+--color=bg+:#202229,fg+:#7fd962,hl+:#e6b673
+--color=info:#d2a6ff,border:#d2a6ff,prompt:#aad94c
+--color=pointer:#59c2ff,marker:#f26d78,spinner:#f26d78,header:#f07178
 "@

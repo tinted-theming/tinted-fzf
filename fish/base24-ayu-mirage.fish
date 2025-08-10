@@ -1,4 +1,4 @@
-# Scheme name: Ayu Light
+# Scheme name: Ayu Mirage
 # Scheme system: base24
 # Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
@@ -12,7 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg:#f8f9fa,fg:#5c6166,hl:#fa8d3e"\
-" --color=bg+:#d2d4d8,fg+:#86b300,hl+:#ffaa33"\
-" --color=info:#a37acc,border:#a37acc,prompt:#6cbf49"\
-" --color=pointer:#399ee6,marker:#ff7383,spinner:#ff7383,header:#f07171"
+" --color=bg:#1f2430,fg:#cccac2,hl:#ffad66"\
+" --color=bg+:#323844,fg+:#87d963,hl+:#ffcc66"\
+" --color=info:#d4bfff,border:#d4bfff,prompt:#d5ff80"\
+" --color=pointer:#73d0ff,marker:#ff6666,spinner:#ff6666,header:#f28779"

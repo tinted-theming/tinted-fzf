@@ -1,13 +1,13 @@
 # Scheme name: Ayu Mirage
 # Scheme system: base16
-# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#171b24'
-set -l color01 '#1f2430'
-set -l color02 '#242936'
-set -l color03 '#707a8c'
-set -l color04 '#8a9199'
+set -l color00 '#1f2430'
+set -l color01 '#242936'
+set -l color02 '#323844'
+set -l color03 '#4a5059'
+set -l color04 '#707a8c'
 set -l color05 '#cccac2'
 set -l color06 '#d9d7ce'
 set -l color07 '#f3f4f5'
@@ -16,9 +16,9 @@ set -l color09 '#ffad66'
 set -l color0A '#ffd173'
 set -l color0B '#d5ff80'
 set -l color0C '#95e6cb'
-set -l color0D '#5ccfe6'
+set -l color0D '#73d0ff'
 set -l color0E '#d4bfff'
-set -l color0F '#f29e74'
+set -l color0F '#f27983'
 
 set -l FZF_NON_COLOR_OPTS
 

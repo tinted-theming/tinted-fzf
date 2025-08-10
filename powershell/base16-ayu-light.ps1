@@ -1,10 +1,10 @@
 # Scheme name: Ayu Light
 # Scheme system: base16
-# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 $ENV:FZF_DEFAULT_OPTS=@"
---color=bg+:#f3f4f5,bg:#fafafa,spinner:#4cbf99,hl:#36a3d9
---color=fg:#828c99,header:#36a3d9,info:#f2ae49,pointer:#4cbf99
---color=marker:#4cbf99,fg+:#242936,prompt:#f2ae49,hl+:#36a3d9
+--color=bg+:#edeff1,bg:#f8f9fa,spinner:#4cbf99,hl:#399ee6
+--color=fg:#8a9199,header:#399ee6,info:#f2ae49,pointer:#4cbf99
+--color=marker:#4cbf99,fg+:#4e5257,prompt:#f2ae49,hl+:#399ee6
 "@
