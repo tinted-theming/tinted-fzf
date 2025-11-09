@@ -1,24 +1,24 @@
-# Scheme name: eris
+# Scheme name: Soft Server
 # Scheme system: base16
-# Scheme author: ed (https://codeberg.org/ed), Tinted Theming (https://github.com/tinted-theming)
+# Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#0a0920'
-set -l color01 '#13133a'
-set -l color02 '#23255a'
-set -l color03 '#333773'
-set -l color04 '#4a5293'
-set -l color05 '#606bac'
-set -l color06 '#7986c5'
-set -l color07 '#9aaae5'
-set -l color08 '#f768a3'
-set -l color09 '#f78968'
-set -l color0A '#f7d668'
-set -l color0B '#a2faa8'
-set -l color0C '#a2faf0'
-set -l color0D '#258fc4'
-set -l color0E '#c368f7'
-set -l color0F '#b85600'
+set -l color00 '#211e2a'
+set -l color01 '#2c2737'
+set -l color02 '#3f3951'
+set -l color03 '#6e6780'
+set -l color04 '#8a829e'
+set -l color05 '#e4dee9'
+set -l color06 '#f2e8f0'
+set -l color07 '#ffffff'
+set -l color08 '#e965a5'
+set -l color09 '#f4b870'
+set -l color0A '#ebde76'
+set -l color0B '#b1f2a7'
+set -l color0C '#b3f4f3'
+set -l color0D '#95a6f4'
+set -l color0E '#ff79c6'
+set -l color0F '#bd93f9'
 
 set -l FZF_NON_COLOR_OPTS
 

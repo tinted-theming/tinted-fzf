@@ -1,24 +1,24 @@
-# Scheme name: eris
+# Scheme name: Ascendancy
 # Scheme system: base16
-# Scheme author: ed (https://codeberg.org/ed), Tinted Theming (https://github.com/tinted-theming)
+# Scheme author: EmergentMind (https://github.com/emergentmind/ascendancy-scheme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#0a0920'
-set -l color01 '#13133a'
-set -l color02 '#23255a'
-set -l color03 '#333773'
-set -l color04 '#4a5293'
-set -l color05 '#606bac'
-set -l color06 '#7986c5'
-set -l color07 '#9aaae5'
-set -l color08 '#f768a3'
-set -l color09 '#f78968'
-set -l color0A '#f7d668'
-set -l color0B '#a2faa8'
-set -l color0C '#a2faf0'
-set -l color0D '#258fc4'
-set -l color0E '#c368f7'
-set -l color0F '#b85600'
+set -l color00 '#282828'
+set -l color01 '#212f3d'
+set -l color02 '#504945'
+set -l color03 '#928374'
+set -l color04 '#bdae93'
+set -l color05 '#d5c7a1'
+set -l color06 '#ebdbb2'
+set -l color07 '#fbf1c7'
+set -l color08 '#c03900'
+set -l color09 '#fe8019'
+set -l color0A '#ffcc1b'
+set -l color0B '#b8bb26'
+set -l color0C '#8f3f71'
+set -l color0D '#458588'
+set -l color0E '#fabd2f'
+set -l color0F '#b59b4d'
 
 set -l FZF_NON_COLOR_OPTS
 

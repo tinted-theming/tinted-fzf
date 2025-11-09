@@ -5,6 +5,6 @@
 
 $ENV:FZF_DEFAULT_OPTS=@"
 --color=bg+:#7c9f4b,bg:#fafafa,spinner:#509c93,hl:#6587bf
---color=fg:#6587bf,header:#6587bf,info:#d69822,pointer:#509c93
---color=marker:#509c93,fg+:#b870ce,prompt:#d69822,hl+:#6587bf
+--color=fg:#6587bf,header:#6587bf,info:#ebcc1a,pointer:#509c93
+--color=marker:#509c93,fg+:#b870ce,prompt:#ebcc1a,hl+:#6587bf
 "@
