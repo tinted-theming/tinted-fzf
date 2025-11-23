@@ -3,22 +3,22 @@
 # Scheme author: Mubin Muhammad (https://github.com/mubin6th)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#d6b891'
-set -l color01 '#c0a179'
-set -l color02 '#a28662'
-set -l color03 '#887254'
-set -l color04 '#1e1812'
-set -l color05 '#35291d'
-set -l color06 '#413325'
-set -l color07 '#d6b891'
-set -l color08 '#413325'
-set -l color09 '#120f09'
-set -l color0A '#292016'
-set -l color0B '#120f09'
-set -l color0C '#413325'
-set -l color0D '#120f09'
-set -l color0E '#292016'
-set -l color0F '#66553f'
+set -l color00 '#cabda0'
+set -l color01 '#bcad8c'
+set -l color02 '#af9f7d'
+set -l color03 '#645538'
+set -l color04 '#110e06'
+set -l color05 '#382e1b'
+set -l color06 '#4b3e26'
+set -l color07 '#bcad8c'
+set -l color08 '#382e1b'
+set -l color09 '#110e06'
+set -l color0A '#110e06'
+set -l color0B '#110e06'
+set -l color0C '#110e06'
+set -l color0D '#251e0f'
+set -l color0E '#382e1b'
+set -l color0F '#4b3e26'
 
 set -l FZF_NON_COLOR_OPTS
 
