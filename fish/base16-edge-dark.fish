@@ -1,18 +1,18 @@
 # Scheme name: Edge Dark
 # Scheme system: base16
-# Scheme author: cjayross (https://github.com/cjayross)
+# Scheme author: cjayross (https://github.com/cjayross), Tinted Theming (https://github.com/tinted-theming)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#262729'
-set -l color01 '#88909f'
-set -l color02 '#b7bec9'
-set -l color03 '#3e4249'
-set -l color04 '#73b3e7'
-set -l color05 '#b7bec9'
-set -l color06 '#d390e7'
-set -l color07 '#3e4249'
+set -l color01 '#313235'
+set -l color02 '#3d3f42'
+set -l color03 '#4a4c4f'
+set -l color04 '#95989d'
+set -l color05 '#afb2b5'
+set -l color06 '#caccce'
+set -l color07 '#e4e5e6'
 set -l color08 '#e77171'
-set -l color09 '#e77171'
+set -l color09 '#eba31a'
 set -l color0A '#dbb774'
 set -l color0B '#a1bf78'
 set -l color0C '#5ebaa5'

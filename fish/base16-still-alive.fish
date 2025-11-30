@@ -1,23 +1,23 @@
 # Scheme name: Still Alive
 # Scheme system: base16
-# Scheme author: Derrick McKee (derrick.mckee@gmail.com)
+# Scheme author: Derrick McKee (derrick.mckee@gmail.com), Tinted Theming (https://github.com/tinted-theming)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f0f0f0'
-set -l color01 '#f0d848'
-set -l color02 '#fff018'
-set -l color03 '#f01818'
-set -l color04 '#f00000'
-set -l color05 '#d80000'
-set -l color06 '#489000'
-set -l color07 '#30a860'
-set -l color08 '#487830'
-set -l color09 '#183048'
-set -l color0A '#426395'
-set -l color0B '#5c5c6a'
-set -l color0C '#2c3c57'
-set -l color0D '#001878'
-set -l color0E '#900000'
+set -l color01 '#d6d6d6'
+set -l color02 '#bdbdbd'
+set -l color03 '#a3a3a3'
+set -l color04 '#605758'
+set -l color05 '#4c383b'
+set -l color06 '#331f21'
+set -l color07 '#140c0d'
+set -l color08 '#d80000'
+set -l color09 '#f0d848'
+set -l color0A '#fff018'
+set -l color0B '#30a860'
+set -l color0C '#36d3ff'
+set -l color0D '#365eff'
+set -l color0E '#9036ff'
 set -l color0F '#140c0d'
 
 set -l FZF_NON_COLOR_OPTS

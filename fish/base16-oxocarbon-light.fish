@@ -1,24 +1,24 @@
 # Scheme name: Oxocarbon Light
 # Scheme system: base16
-# Scheme author: shaunsingh/IBM
+# Scheme author: shaunsingh/IBM, Tinted Theming (https://github.com/tinted-theming)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#f2f4f8'
 set -l color01 '#dde1e6'
-set -l color02 '#525252'
-set -l color03 '#161616'
-set -l color04 '#262626'
-set -l color05 '#393939'
-set -l color06 '#525252'
-set -l color07 '#08bdba'
+set -l color02 '#bec6cf'
+set -l color03 '#a1acba'
+set -l color04 '#68788d'
+set -l color05 '#525f70'
+set -l color06 '#3d4652'
+set -l color07 '#272d35'
 set -l color08 '#ff7eb6'
 set -l color09 '#ee5396'
 set -l color0A '#ff6f00'
-set -l color0B '#0f62fe'
+set -l color0B '#42be65'
 set -l color0C '#673ab7'
-set -l color0D '#42be65'
+set -l color0D '#0f62fe'
 set -l color0E '#be95ff'
-set -l color0F '#37474f'
+set -l color0F '#803800'
 
 set -l FZF_NON_COLOR_OPTS
 

@@ -1,24 +1,24 @@
 # Scheme name: PaperColor Light
 # Scheme system: base16
-# Scheme author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Scheme author: Jon Leopard (http://github.com/jonleopard), Tinted Theming (https://github.com/tinted-theming), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#eeeeee'
-set -l color01 '#af0000'
-set -l color02 '#008700'
-set -l color03 '#5f8700'
-set -l color04 '#0087af'
-set -l color05 '#444444'
-set -l color06 '#005f87'
-set -l color07 '#878787'
-set -l color08 '#bcbcbc'
-set -l color09 '#d70000'
-set -l color0A '#d70087'
-set -l color0B '#8700af'
-set -l color0C '#d75f00'
-set -l color0D '#d75f00'
-set -l color0E '#005faf'
-set -l color0F '#005f87'
+set -l color01 '#c4c4c4'
+set -l color02 '#9e9e9e'
+set -l color03 '#858585'
+set -l color04 '#6b6b6b'
+set -l color05 '#5e5e5e'
+set -l color06 '#525252'
+set -l color07 '#444444'
+set -l color08 '#d70000'
+set -l color09 '#d75f00'
+set -l color0A '#d75f00'
+set -l color0B '#008700'
+set -l color0C '#0087af'
+set -l color0D '#005f87'
+set -l color0E '#8700af'
+set -l color0F '#af0000'
 
 set -l FZF_NON_COLOR_OPTS
 

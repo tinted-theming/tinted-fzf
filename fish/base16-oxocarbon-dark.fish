@@ -1,6 +1,6 @@
 # Scheme name: Oxocarbon Dark
 # Scheme system: base16
-# Scheme author: shaunsingh/IBM
+# Scheme author: shaunsingh/IBM, Tinted Theming (https://github.com/tinted-theming)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#161616'
@@ -11,12 +11,12 @@ set -l color04 '#dde1e6'
 set -l color05 '#f2f4f8'
 set -l color06 '#ffffff'
 set -l color07 '#08bdba'
-set -l color08 '#3ddbd9'
-set -l color09 '#78a9ff'
-set -l color0A '#ee5396'
-set -l color0B '#33b1ff'
-set -l color0C '#ff7eb6'
-set -l color0D '#42be65'
+set -l color08 '#ee5396'
+set -l color09 '#ff7eb6'
+set -l color0A '#ff6f00'
+set -l color0B '#42be65'
+set -l color0C '#3ddbd9'
+set -l color0D '#33b1ff'
 set -l color0E '#be95ff'
 set -l color0F '#82cfff'
 
