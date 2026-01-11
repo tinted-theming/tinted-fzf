@@ -1,24 +1,24 @@
-# Scheme name: Catppuccin Frappe
+# Scheme name: Cyberpunk
 # Scheme system: base16
-# Scheme author: https://github.com/catppuccin/catppuccin
+# Scheme author: benjujo
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#303446'
-set -l color01 '#414559'
-set -l color02 '#51576d'
-set -l color03 '#737994'
-set -l color04 '#a5adce'
-set -l color05 '#c6d0f5'
-set -l color06 '#f2d5cf'
-set -l color07 '#babbf1'
-set -l color08 '#e78284'
-set -l color09 '#ef9f76'
-set -l color0A '#e5c890'
-set -l color0B '#a6d189'
-set -l color0C '#81c8be'
-set -l color0D '#8caaee'
-set -l color0E '#ca9ee6'
-set -l color0F '#eebebe'
+set -l color00 '#000000'
+set -l color01 '#2b2b2b'
+set -l color02 '#383838'
+set -l color03 '#4f4f4f'
+set -l color04 '#8b8989'
+set -l color05 '#dcdccc'
+set -l color06 '#f8f8f8'
+set -l color07 '#ffffff'
+set -l color08 '#ff0000'
+set -l color09 '#ffa500'
+set -l color0A '#ffff00'
+set -l color0B '#61ce3c'
+set -l color0C '#93e0e3'
+set -l color0D '#4c83ff'
+set -l color0E '#ff1493'
+set -l color0F '#ff8c00'
 
 set -l FZF_NON_COLOR_OPTS
 

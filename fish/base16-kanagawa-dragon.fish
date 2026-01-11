@@ -1,24 +1,24 @@
 # Scheme name: Kanagawa Dragon
 # Scheme system: base16
-# Scheme author: Tommaso Laurenzi (https://github.com/rebelot)
+# Scheme author: Stefan Weigl-Bosker (https://github.com/sweiglbosker), Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#0d0c0c'
-set -l color01 '#1d1c19'
-set -l color02 '#282727'
-set -l color03 '#737c73'
-set -l color04 '#a6a69c'
+set -l color00 '#181616'
+set -l color01 '#282727'
+set -l color02 '#393836'
+set -l color03 '#625e5a'
+set -l color04 '#737c73'
 set -l color05 '#c5c9c5'
-set -l color06 '#7a8382'
+set -l color06 '#c8c093'
 set -l color07 '#c5c9c5'
 set -l color08 '#c4746e'
-set -l color09 '#b98d7b'
+set -l color09 '#b6927b'
 set -l color0A '#c4b28a'
-set -l color0B '#87a987'
+set -l color0B '#8a9a7b'
 set -l color0C '#8ea4a2'
 set -l color0D '#8ba4b0'
-set -l color0E '#8992a7'
-set -l color0F '#a292a3'
+set -l color0E '#a292a3'
+set -l color0F '#b98d7b'
 
 set -l FZF_NON_COLOR_OPTS
 
