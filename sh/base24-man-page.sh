@@ -1,8 +1,9 @@
-# base24-Man Page
+# Scheme name: Man Page
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#fef49c,fg:#b2b2b2,hl:#999900\
  --color=bg+:#666666,fg+:#b2b2b2,hl+:#e5e500\
  --color=info:#0000ff,border:#0000b2,prompt:#00a600\

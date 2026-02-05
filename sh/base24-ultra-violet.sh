@@ -1,8 +1,9 @@
-# base24-Ultra Violet
+# Scheme name: Ultra Violet
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#242728,fg:#c1c2c2,hl:#fff727\
  --color=bg+:#626566,fg+:#c1c2c2,hl+:#ebdf86\
  --color=info:#7febff,border:#47dffb,prompt:#b5ff00\

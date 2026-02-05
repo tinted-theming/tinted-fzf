@@ -1,8 +1,9 @@
-# base24-Chalk
+# Scheme name: Chalk
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#151515,fg:#d0d0d0,hl:#ea9971\
  --color=bg+:#303030,fg+:#d0d0d0,hl+:#eda987\
  --color=info:#6fc2ef,border:#5ab9ed,prompt:#a1bb54\

@@ -1,8 +1,9 @@
-# base24-Sleepy Hollow
+# Scheme name: Sleepy Hollow
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#121213,fg:#968684,hl:#b45600\
  --color=bg+:#4e4b60,fg+:#968684,hl+:#f66713\
  --color=info:#8085ef,border:#5e62b4,prompt:#90773e\

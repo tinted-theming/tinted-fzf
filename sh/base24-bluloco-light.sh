@@ -1,8 +1,9 @@
-# base24-Bluloco Light
+# Scheme name: Bluloco Light
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#f7f7f7,fg:#38383a,hl:#d44d16\
  --color=bg+:#dddee8,fg+:#38383a,hl+:#b79326\
  --color=info:#1085d9,border:#1d44dd,prompt:#208839\

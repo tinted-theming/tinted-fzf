@@ -1,8 +1,9 @@
-# base24-Ollie
+# Scheme name: Ollie
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#212024,fg:#7e7789,hl:#ab4200\
  --color=bg+:#5a3625,fg+:#7e7789,hl+:#ff5e1e\
  --color=info:#4487ff,border:#2c56ab,prompt:#31ab60\

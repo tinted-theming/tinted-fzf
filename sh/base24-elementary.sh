@@ -1,8 +1,9 @@
-# base24-Elementary
+# Scheme name: Elementary
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#181818,fg:#c5c5c5,hl:#fdb40b\
  --color=bg+:#4a4a4a,fg+:#c5c5c5,hl+:#fdc70e\
  --color=info:#0855fe,border:#053a8c,prompt:#59a413\

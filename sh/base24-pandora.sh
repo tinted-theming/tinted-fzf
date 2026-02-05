@@ -1,8 +1,9 @@
-# base24-Pandora
+# Scheme name: Pandora
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#131d42,fg:#b8beba,hl:#ffad29\
  --color=bg+:#3e5548,fg+:#b8beba,hl+:#ffb929\
  --color=info:#23d7d7,border:#338f86,prompt:#74af68\

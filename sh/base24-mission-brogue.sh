@@ -1,8 +1,9 @@
-# base24-Mission Brogue
+# Scheme name: Mission Brogue
+# Scheme system: base24
 # Scheme author: Thomas Leon Highbaugh
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#283139,fg:#93a5b4,hl:#f2db78\
  --color=bg+:#4d606f,fg+:#93a5b4,hl+:#fff0b2\
  --color=info:#c3d9fd,border:#a2c5fd,prompt:#8cd4b0\

@@ -1,8 +1,9 @@
-# base24-Gruvbox Light
+# Scheme name: Gruvbox Light
+# Scheme system: base24
 # Scheme author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#fbf1c7,fg:#3c3836,hl:#d65d0e\
  --color=bg+:#d5c4a1,fg+:#3c3836,hl+:#b57614\
  --color=info:#076678,border:#458588,prompt:#98971a\

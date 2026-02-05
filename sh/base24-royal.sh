@@ -1,8 +1,9 @@
-# base24-Royal
+# Scheme name: Royal
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#100814,fg:#49425a,hl:#b49d27\
  --color=bg+:#312d3c,fg+:#49425a,hl+:#fde83a\
  --color=info:#8fb9f9,border:#6480af,prompt:#23801c\

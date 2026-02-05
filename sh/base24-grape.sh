@@ -1,8 +1,9 @@
-# base24-Grape
+# Scheme name: Grape
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#161423,fg:#8c8a92,hl:#8ddc1f\
  --color=bg+:#58506a,fg+:#8c8a92,hl+:#b2dc87\
  --color=info:#a9bbeb,border:#487cf4,prompt:#1fa91b\

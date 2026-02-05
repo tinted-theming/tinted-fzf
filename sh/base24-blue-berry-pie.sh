@@ -1,8 +1,9 @@
-# base24-Blue Berry Pie
+# Scheme name: Blue Berry Pie
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#1c0b28,fg:#bbb2ad,hl:#e9b8a7\
  --color=bg+:#1f1637,fg+:#bbb2ad,hl+:#793188\
  --color=info:#38163d,border:#90a5bc,prompt:#5bb0b2\

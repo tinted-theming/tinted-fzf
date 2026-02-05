@@ -1,8 +1,9 @@
-# base24-Tokyo Night Light
+# Scheme name: Tokyo Night Light
+# Scheme system: base24
 # Scheme author: Michaël Ball, based on Tokyo Night by enkia (https://github.com/enkia/tokyo-night-vscode-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#d5d6db,fg:#343b59,hl:#965027\
  --color=bg+:#dfe0e5,fg+:#343b59,hl+:#965027\
  --color=info:#34548a,border:#34548a,prompt:#485e30\

@@ -1,8 +1,9 @@
-# base24-Hardcore
+# Scheme name: Hardcore
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#111111,fg:#a9a9a9,hl:#ffcc33\
  --color=bg+:#414141,fg+:#a9a9a9,hl+:#ffd966\
  --color=info:#33bbff,border:#00aaff,prompt:#98ec65\

@@ -1,8 +1,9 @@
-# base24-Fish Tank
+# Scheme name: Fish Tank
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#222436,fg:#ccc9c9,hl:#fdcd5e\
  --color=bg+:#6c5a30,fg+:#ccc9c9,hl+:#fee6a8\
  --color=info:#b1bdf9,border:#525fb8,prompt:#abf157\

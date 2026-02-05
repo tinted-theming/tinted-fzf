@@ -1,8 +1,9 @@
-# base24-Flat
+# Scheme name: Flat
+# Scheme system: base24
 # Scheme author: FredHappyface (https://github.com/fredHappyface)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-export FZF_DEFAULT_OPTS=" \
+export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
  --color=bg:#082845,fg:#8c939a,hl:#e58d11\
  --color=bg+:#2e2e45,fg+:#8c939a,hl+:#e5be0c\
  --color=info:#3c7dd2,border:#3167ac,prompt:#2d9440\
