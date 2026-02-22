@@ -4,10 +4,10 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 set -l color00 '#24273a'
-set -l color01 '#363a4f'
-set -l color02 '#494d64'
-set -l color03 '#6e738d'
-set -l color04 '#a5adcb'
+set -l color01 '#1e2030'
+set -l color02 '#363a4f'
+set -l color03 '#494d64'
+set -l color04 '#5b6078'
 set -l color05 '#cad3f5'
 set -l color06 '#f4dbd6'
 set -l color07 '#b7bdf8'
