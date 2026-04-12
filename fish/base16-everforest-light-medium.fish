@@ -1,24 +1,24 @@
-# Scheme name: Embers Light
+# Scheme name: Everforest Light (Medium)
 # Scheme system: base16
-# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Scheme author: Márcio Sobel (https://github.com/marciosobel)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#dbd6d1'
-set -l color01 '#beb6ae'
-set -l color02 '#a39a90'
-set -l color03 '#8a8075'
-set -l color04 '#5a5047'
-set -l color05 '#433b32'
-set -l color06 '#2c2620'
-set -l color07 '#16130f'
-set -l color08 '#826d57'
-set -l color09 '#828257'
-set -l color0A '#6d8257'
-set -l color0B '#57826d'
-set -l color0C '#576d82'
-set -l color0D '#6d5782'
-set -l color0E '#82576d'
-set -l color0F '#825757'
+set -l color00 '#fdf6e3'
+set -l color01 '#f4f0d9'
+set -l color02 '#e6e2cc'
+set -l color03 '#939f91'
+set -l color04 '#829181'
+set -l color05 '#5c6a72'
+set -l color06 '#475258'
+set -l color07 '#2d353b'
+set -l color08 '#f85552'
+set -l color09 '#f57d26'
+set -l color0A '#dfa000'
+set -l color0B '#8da101'
+set -l color0C '#35a77c'
+set -l color0D '#3a94c5'
+set -l color0E '#df69ba'
+set -l color0F '#829181'
 
 set -l FZF_NON_COLOR_OPTS
 
