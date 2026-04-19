@@ -1,0 +1,18 @@
+# Scheme name: {{scheme.name}}
+# Scheme system: {{scheme.system}}
+# Scheme author: {{scheme.author}}
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+
+set -l FZF_NON_COLOR_OPTS
+
+for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
+    if not string match -q -- "--color*" $arg
+        set -a FZF_NON_COLOR_OPTS $arg
+    end
+end
+
+set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
+" --color=bg:#{{ui.global.background.normal.hex}},fg:#{{ui.global.foreground.normal.hex}},hl:#{{ui.highlight.search.foreground.hex}}"\
+" --color=bg+:#{{ui.selection.background.hex}},fg+:#{{ui.selection.foreground.hex}},hl+:#{{ui.highlight.search.foreground.hex}}"\
+" --color=info:#{{ui.status.info.hex}},border:#{{ui.border.hex}},prompt:#{{ui.accent.hex}}"\
+" --color=pointer:#{{ui.accent.hex}},marker:#{{ui.status.success.hex}},spinner:#{{ui.accent.hex}},header:#{{ui.global.foreground.dark.hex}}"

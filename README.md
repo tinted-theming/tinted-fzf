@@ -2,8 +2,8 @@
 
 [![Matrix Chat](https://img.shields.io/matrix/tinted-theming:matrix.org)](https://matrix.to/#/#tinted-theming:matrix.org)
 
-This repository provides [Base16] and [Base24] color schemes for [fzf], a
-command-line fuzzy finder written in Go.
+This repository provides [Base16], [Base24] an [Tinted8] color schemes for
+[fzf], a command-line fuzzy finder written in Go.
 
 It is meant to be used along with other [Tinted Theming] template
 projects, which proposes a modular approach by separating templates,
@@ -12,11 +12,6 @@ schemes and builder into different repositories.
 Themes in tinted-fzf work by appending `--color` options to your
 existing `FZF_DEFAULT_OPTS` environment variable.
 
-Previously [base16-fzf], but we've since added Base24 themes and plan
-to add themes for different color systems in future, the `base16-`
-prefix doesn't work anymore so we've moved to the less restrictive name
-`tinted-fzf`.
-
 ## Installation
 
 ### Posix complaint shell (sh, bash, zsh)
@@ -24,7 +19,7 @@ prefix doesn't work anymore so we've moved to the less restrictive name
 Source your favorite color scheme from the `sh/` directory into your
 shell configuration file (`.*rc` file). 
 
-```shell
+```sh
 . /path/to/tinted-fzf/sh/base16-oceanicnext.sh
 ```
 
@@ -66,7 +61,7 @@ shell environments, enhancing your experience with fzf.
 
 ## Contributing
 
-See [CONTRIBUTING.md], which contains building and contributing
+See [CONTRIBUTING_TO_TEMPLATES.md], which contains building and contributing
 instructions.
 
 This template's themes were built with [builder-rust].
@@ -79,11 +74,11 @@ This template's themes were built with [builder-rust].
 
 [Base16]: https://github.com/tinted-theming/home
 [Base24]: https://github.com/tinted-theming/base24
+[Tinted8]: https://github.com/tinted-theming/home/blob/main/specs/tinted8/styling.md
 [Tinted Theming]: https://github.com/tinted-theming/home
 [fzf]: https://github.com/junegunn/fzf
 [builder-rust]: https://github.com/tinted-theming/tinted-builder-rust
-[CONTRIBUTING.md]: CONTRIBUTING.md
-[base16-fzf]: https://github.com/tinted-theming/base16-fzf
+[CONTRIBUTING_TO_TEMPLATES.md]: https://github.com/tinted-theming/CONTRIBUTING_TO_TEMPLATES.md
 [1]: screenshots/base16-solarized-dark.png
 [2]: screenshots/base16-horizon-dark.png
 [3]: screenshots/base16-tomorrow.png

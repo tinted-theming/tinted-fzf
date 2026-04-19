@@ -1,30 +1,44 @@
 legacy:
-    extension: .config
-    output: bash
+  filename: bash/{{ scheme-system }}-{{ scheme-slug }}.config
 
 base16-default:
-    extension: .sh
-    output: sh
+  filename: sh/{{ scheme-system }}-{{ scheme-slug }}.sh
 
 base24-default:
-    extension: .sh
-    output: sh
-    supported-systems: [base24]
+  filename: sh/{{ scheme-system }}-{{ scheme-slug }}.sh
+  supported-systems: [base24]
+
+tinted8-default:
+  filename: sh/{{ scheme.system }}-{{ scheme.slug }}.sh
+  supported-systems: [tinted8]
+  supports:
+    tinted8-builder: ~0.2.0
+    tinted8-styling: ~0.2.0
 
 base16-fish:
-    extension: .fish
-    output: fish
+  filename: fish/{{ scheme-system }}-{{ scheme-slug }}.fish
 
 base24-fish:
-    extension: .fish
-    output: fish
-    supported-systems: [base24]
+  filename: fish/{{ scheme-system }}-{{ scheme-slug }}.fish
+  supported-systems: [base24]
+    
+tinted8-fish:
+  filename: fish/{{ scheme.system }}-{{ scheme.slug }}.fish
+  supported-systems: [tinted8]
+  supports:
+    tinted8-builder: ~0.2.0
+    tinted8-styling: ~0.2.0
 
 base16-powershell:
-    extension: .ps1
-    output: powershell
+  filename: powershell/{{ scheme-system }}-{{ scheme-slug }}.ps1
 
 base24-powershell:
-    extension: .ps1
-    output: powershell
-    supported-systems: [base24]
+  filename: powershell/{{ scheme-system }}-{{ scheme-slug }}.ps1
+  supported-systems: [base24]
+    
+tinted8-powershell:
+  filename: powershell/{{ scheme.system }}-{{ scheme.slug }}.ps1
+  supported-systems: [tinted8]
+  supports:
+    tinted8-builder: ~0.2.0
+    tinted8-styling: ~0.2.0
