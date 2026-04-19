@@ -1,24 +1,24 @@
-# Scheme name: Dracula
+# Scheme name: Swamp Dark
 # Scheme system: base16
-# Scheme author: clach04 (https://github.com/clach04)
+# Scheme author: Masroof Maindak (https://github.com/masroof-maindak)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#282a36'
-set -l color01 '#21222c'
-set -l color02 '#44475a'
-set -l color03 '#6272a4'
-set -l color04 '#9ea8c7'
-set -l color05 '#f8f8f2'
-set -l color06 '#f8f8f2'
-set -l color07 '#ffffff'
-set -l color08 '#ff5555'
-set -l color09 '#ffb86c'
-set -l color0A '#f1fa8c'
-set -l color0B '#50fa7b'
-set -l color0C '#8be9fd'
-set -l color0D '#bd93f9'
-set -l color0E '#ff79c6'
-set -l color0F '#993333'
+set -l color00 '#242015'
+set -l color01 '#3a3124'
+set -l color02 '#4d3f32'
+set -l color03 '#5f4e41'
+set -l color04 '#b8a58c'
+set -l color05 '#d2c3a4'
+set -l color06 '#ebe0bb'
+set -l color07 '#f1e9d0'
+set -l color08 '#db930d'
+set -l color09 '#ebe0bb'
+set -l color0A '#a82d56'
+set -l color0B '#7a7653'
+set -l color0C '#db930d'
+set -l color0D '#c1666b'
+set -l color0E '#91506c'
+set -l color0F '#61a0a8'
 
 set -l FZF_NON_COLOR_OPTS
 
