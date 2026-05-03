@@ -15,4 +15,4 @@ set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
 " --color=bg:#dce0e8,fg:#4c4f69,hl:#df8e1d"\
 " --color=bg+:#b6bfd1,fg+:#4c4f69,hl+:#df8e1d"\
 " --color=info:#fe640b,border:#,prompt:#"\
-" --color=pointer:#,marker:#40a02b,spinner:#,header:#323446"
+" --color=pointer:#,marker:#40a02b,spinner:#,header:#6c6f85"
