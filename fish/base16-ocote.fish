@@ -1,24 +1,24 @@
-# Scheme name: Github
+# Scheme name: Ocote
 # Scheme system: base16
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme author: Teshre
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#ffffff'
-set -l color01 '#f6f8fa'
-set -l color02 '#afb8c1'
-set -l color03 '#8c959f'
-set -l color04 '#6e7781'
-set -l color05 '#424a53'
-set -l color06 '#32383f'
-set -l color07 '#1f2328'
-set -l color08 '#953800'
-set -l color09 '#0550ae'
-set -l color0A '#bf8700'
-set -l color0B '#0a3069'
-set -l color0C '#116329'
-set -l color0D '#8250df'
-set -l color0E '#cf222e'
-set -l color0F '#82071e'
+set -l color00 '#14100c'
+set -l color01 '#211b13'
+set -l color02 '#3a2e1c'
+set -l color03 '#6b6253'
+set -l color04 '#a99f8d'
+set -l color05 '#e7dcc6'
+set -l color06 '#f1e9d9'
+set -l color07 '#faf6ec'
+set -l color08 '#e8635a'
+set -l color09 '#e8843a'
+set -l color0A '#e8b43a'
+set -l color0B '#7dc97a'
+set -l color0C '#6dd8c8'
+set -l color0D '#82a6e0'
+set -l color0E '#c58ae0'
+set -l color0F '#4a3e2c'
 
 set -l FZF_NON_COLOR_OPTS
 

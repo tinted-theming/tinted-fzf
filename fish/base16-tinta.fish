@@ -1,24 +1,24 @@
-# Scheme name: Github
+# Scheme name: Tinta
 # Scheme system: base16
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme author: Teshre
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#ffffff'
-set -l color01 '#f6f8fa'
-set -l color02 '#afb8c1'
-set -l color03 '#8c959f'
-set -l color04 '#6e7781'
-set -l color05 '#424a53'
-set -l color06 '#32383f'
-set -l color07 '#1f2328'
-set -l color08 '#953800'
-set -l color09 '#0550ae'
-set -l color0A '#bf8700'
-set -l color0B '#0a3069'
-set -l color0C '#116329'
-set -l color0D '#8250df'
-set -l color0E '#cf222e'
-set -l color0F '#82071e'
+set -l color00 '#101012'
+set -l color01 '#202023'
+set -l color02 '#2c2c30'
+set -l color03 '#62626a'
+set -l color04 '#9d9c9d'
+set -l color05 '#d8d6d0'
+set -l color06 '#e3e1db'
+set -l color07 '#eeece6'
+set -l color08 '#d0726a'
+set -l color09 '#e8843a'
+set -l color0A '#c8b86a'
+set -l color0B '#9aa890'
+set -l color0C '#80b8b4'
+set -l color0D '#8a9ab0'
+set -l color0E '#b0a0b8'
+set -l color0F '#4a4a50'
 
 set -l FZF_NON_COLOR_OPTS
 

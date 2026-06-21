@@ -1,24 +1,24 @@
-# Scheme name: Github
+# Scheme name: Github Dark High Contrast
 # Scheme system: base16
 # Scheme author: Tinted Theming (https://github.com/tinted-theming)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#ffffff'
-set -l color01 '#f6f8fa'
-set -l color02 '#afb8c1'
-set -l color03 '#8c959f'
-set -l color04 '#6e7781'
-set -l color05 '#424a53'
-set -l color06 '#32383f'
-set -l color07 '#1f2328'
-set -l color08 '#953800'
-set -l color09 '#0550ae'
-set -l color0A '#bf8700'
-set -l color0B '#0a3069'
-set -l color0C '#116329'
-set -l color0D '#8250df'
-set -l color0E '#cf222e'
-set -l color0F '#82071e'
+set -l color00 '#0a0c10'
+set -l color01 '#272b33'
+set -l color02 '#7a828e'
+set -l color03 '#9ea7b3'
+set -l color04 '#bdc4cc'
+set -l color05 '#f0f3f6'
+set -l color06 '#ffffff'
+set -l color07 '#ffffff'
+set -l color08 '#ffb757'
+set -l color09 '#91cbff'
+set -l color0A '#e09b13'
+set -l color0B '#addcff'
+set -l color0C '#72f088'
+set -l color0D '#dbb7ff'
+set -l color0E '#ff9492'
+set -l color0F '#ffb1af'
 
 set -l FZF_NON_COLOR_OPTS
 

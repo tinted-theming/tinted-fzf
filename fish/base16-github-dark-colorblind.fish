@@ -1,24 +1,24 @@
-# Scheme name: Github
+# Scheme name: Github Dark Colorblind
 # Scheme system: base16
 # Scheme author: Tinted Theming (https://github.com/tinted-theming)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#ffffff'
-set -l color01 '#f6f8fa'
-set -l color02 '#afb8c1'
-set -l color03 '#8c959f'
-set -l color04 '#6e7781'
-set -l color05 '#424a53'
-set -l color06 '#32383f'
-set -l color07 '#1f2328'
-set -l color08 '#953800'
-set -l color09 '#0550ae'
-set -l color0A '#bf8700'
-set -l color0B '#0a3069'
-set -l color0C '#116329'
-set -l color0D '#8250df'
-set -l color0E '#cf222e'
-set -l color0F '#82071e'
+set -l color00 '#0d1117'
+set -l color01 '#161b22'
+set -l color02 '#484f58'
+set -l color03 '#6e7681'
+set -l color04 '#8b949e'
+set -l color05 '#c9d1d9'
+set -l color06 '#f0f6fc'
+set -l color07 '#ffffff'
+set -l color08 '#fdac54'
+set -l color09 '#79c0ff'
+set -l color0A '#bb8009'
+set -l color0B '#a5d6ff'
+set -l color0C '#a5d6ff'
+set -l color0D '#d2a8ff'
+set -l color0E '#ec8e2c'
+set -l color0F '#fdac54'
 
 set -l FZF_NON_COLOR_OPTS
 

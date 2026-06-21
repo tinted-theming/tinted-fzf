@@ -1,4 +1,4 @@
-# Scheme name: Github Light
+# Scheme name: Github Dark High Contrast
 # Scheme system: base24
 # Scheme author: Tinted Theming (https://github.com/tinted-theming)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
@@ -12,7 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg:#ffffff,fg:#424a53,hl:#0550ae"\
-" --color=bg+:#afb8c1,fg+:#4ac26b,hl+:#d4a72c"\
-" --color=info:#cf222e,border:#cf222e,prompt:#0a3069"\
-" --color=pointer:#8250df,marker:#ff8182,spinner:#ff8182,header:#953800"
+" --color=bg:#0a0c10,fg:#f0f3f6,hl:#91cbff"\
+" --color=bg+:#7a828e,fg+:#26cd4d,hl+:#f0b72f"\
+" --color=info:#ff9492,border:#ff9492,prompt:#addcff"\
+" --color=pointer:#dbb7ff,marker:#ff9492,spinner:#ff9492,header:#ffb757"

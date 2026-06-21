@@ -1,24 +1,24 @@
-# Scheme name: Github
+# Scheme name: Cacao
 # Scheme system: base16
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme author: Teshre
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#ffffff'
-set -l color01 '#f6f8fa'
-set -l color02 '#afb8c1'
-set -l color03 '#8c959f'
-set -l color04 '#6e7781'
-set -l color05 '#424a53'
-set -l color06 '#32383f'
-set -l color07 '#1f2328'
-set -l color08 '#953800'
-set -l color09 '#0550ae'
-set -l color0A '#bf8700'
-set -l color0B '#0a3069'
-set -l color0C '#116329'
-set -l color0D '#8250df'
-set -l color0E '#cf222e'
-set -l color0F '#82071e'
+set -l color00 '#160f0c'
+set -l color01 '#241913'
+set -l color02 '#3a281e'
+set -l color03 '#766052'
+set -l color04 '#af9b8b'
+set -l color05 '#e8d6c4'
+set -l color06 '#eedecd'
+set -l color07 '#f4e6d6'
+set -l color08 '#e0705c'
+set -l color09 '#c77b4a'
+set -l color0A '#e8a84a'
+set -l color0B '#9ac97a'
+set -l color0C '#74c8b0'
+set -l color0D '#a89ad0'
+set -l color0E '#ce8ab0'
+set -l color0F '#4e382a'
 
 set -l FZF_NON_COLOR_OPTS
 

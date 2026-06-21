@@ -1,24 +1,24 @@
-# Scheme name: Github
+# Scheme name: Papel
 # Scheme system: base16
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme author: Teshre
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#ffffff'
-set -l color01 '#f6f8fa'
-set -l color02 '#afb8c1'
-set -l color03 '#8c959f'
-set -l color04 '#6e7781'
-set -l color05 '#424a53'
-set -l color06 '#32383f'
-set -l color07 '#1f2328'
-set -l color08 '#953800'
-set -l color09 '#0550ae'
-set -l color0A '#bf8700'
-set -l color0B '#0a3069'
-set -l color0C '#116329'
-set -l color0D '#8250df'
-set -l color0E '#cf222e'
-set -l color0F '#82071e'
+set -l color00 '#f5efe2'
+set -l color01 '#8e8576'
+set -l color02 '#e0d0ac'
+set -l color03 '#9a8c76'
+set -l color04 '#6a5d4b'
+set -l color05 '#3a2e20'
+set -l color06 '#958b7c'
+set -l color07 '#efe8d8'
+set -l color08 '#c0392b'
+set -l color09 '#c25c1f'
+set -l color0A '#a8761a'
+set -l color0B '#5e7a28'
+set -l color0C '#2a8a7a'
+set -l color0D '#2c6ca0'
+set -l color0E '#9b4d8e'
+set -l color0F '#6e6353'
 
 set -l FZF_NON_COLOR_OPTS
 

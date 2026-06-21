@@ -1,24 +1,24 @@
-# Scheme name: Github
+# Scheme name: Noche
 # Scheme system: base16
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme author: Teshre
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#ffffff'
-set -l color01 '#f6f8fa'
-set -l color02 '#afb8c1'
-set -l color03 '#8c959f'
-set -l color04 '#6e7781'
-set -l color05 '#424a53'
-set -l color06 '#32383f'
-set -l color07 '#1f2328'
-set -l color08 '#953800'
-set -l color09 '#0550ae'
-set -l color0A '#bf8700'
-set -l color0B '#0a3069'
-set -l color0C '#116329'
-set -l color0D '#8250df'
-set -l color0E '#cf222e'
-set -l color0F '#82071e'
+set -l color00 '#0c0e16'
+set -l color01 '#181c2c'
+set -l color02 '#232a40'
+set -l color03 '#5a6178'
+set -l color04 '#939bb2'
+set -l color05 '#cbd4ec'
+set -l color06 '#d9e0f3'
+set -l color07 '#e6ecfa'
+set -l color08 '#e2727e'
+set -l color09 '#82a6e0'
+set -l color0A '#d8c062'
+set -l color0B '#7cc596'
+set -l color0C '#6dd8d0'
+set -l color0D '#7aa0e8'
+set -l color0E '#b79ae0'
+set -l color0F '#3a4260'
 
 set -l FZF_NON_COLOR_OPTS
 
