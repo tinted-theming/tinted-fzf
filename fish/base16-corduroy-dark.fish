@@ -1,24 +1,24 @@
-# Scheme name: Apprentice
+# Scheme name: Corduroy Dark
 # Scheme system: base16
-# Scheme author: Romain Lafourcade (https://github.com/romainl)
+# Scheme author: taysatte (https://github.com/taysatte)
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
-set -l color00 '#262626'
-set -l color01 '#303030'
-set -l color02 '#3a3a3a'
-set -l color03 '#444444'
-set -l color04 '#6c6c6c'
-set -l color05 '#bcbcbc'
-set -l color06 '#dfdfdf'
-set -l color07 '#ffffff'
-set -l color08 '#af5f5f'
-set -l color09 '#ff8700'
-set -l color0A '#87875f'
-set -l color0B '#5f875f'
-set -l color0C '#5f8787'
-set -l color0D '#5f87af'
-set -l color0E '#5f5f87'
-set -l color0F '#af5f5f'
+set -l color00 '#141016'
+set -l color01 '#1b151e'
+set -l color02 '#221a26'
+set -l color03 '#7d7082'
+set -l color04 '#9a8d9e'
+set -l color05 '#ddd8df'
+set -l color06 '#ddd8df'
+set -l color07 '#5a5160'
+set -l color08 '#e8758a'
+set -l color09 '#f0a89b'
+set -l color0A '#f0bd9c'
+set -l color0B '#55a0a0'
+set -l color0C '#f0a89b'
+set -l color0D '#dc92a3'
+set -l color0E '#cf98c4'
+set -l color0F '#9a8d9e'
 
 set -l FZF_NON_COLOR_OPTS
 
