@@ -12,7 +12,7 @@ for arg in (echo $FZF_DEFAULT_OPTS | tr " " "\n")
 end
 
 set -Ux FZF_DEFAULT_OPTS "$FZF_NON_COLOR_OPTS"\
-" --color=bg:#0a0c10,fg:#f0f3f6,hl:#91cbff"\
-" --color=bg+:#7a828e,fg+:#26cd4d,hl+:#f0b72f"\
-" --color=info:#ff9492,border:#ff9492,prompt:#addcff"\
-" --color=pointer:#dbb7ff,marker:#ff9492,spinner:#ff9492,header:#ffb757"
+" --color=bg:#0d1117,fg:#d1d7e0,hl:#ffb757"\
+" --color=bg+:#2f3742,fg+:#4ae168,hl+:#f7c843"\
+" --color=info:#cb9eff,border:#cb9eff,prompt:#28d751"\
+" --color=pointer:#71b7ff,marker:#ffb1af,spinner:#ffb1af,header:#ff9492"
