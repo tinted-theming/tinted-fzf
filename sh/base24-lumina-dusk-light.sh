@@ -4,7 +4,7 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming)
 
 export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS"\
-" --color=bg:#f1eaf2,fg:#3f3341,hl:#944e20"\
-" --color=bg+:#e1d7e2,fg+:#3f3341,hl+:#593500"\
-" --color=info:#283e7a,border:#334f9d,prompt:#27693a"\
-" --color=pointer:#f1eaf2,marker:#622220,spinner:#622220,header:#882322"
+" --color=bg:#f6f3fe,fg:#2e2945,hl:#8c491d"\
+" --color=bg+:#e4e0ef,fg+:#2e2945,hl+:#854e07"\
+" --color=info:#2b5088,border:#3163ad,prompt:#357545"\
+" --color=pointer:#f6f3fe,marker:#622320,spinner:#622320,header:#872423"
